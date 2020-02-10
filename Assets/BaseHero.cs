@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
 public class BaseHero : MonoBehaviour
 {
-    [Header("Core Stats")]
     public string unitName;
     public int unitLevel;
     public int unitRank;
@@ -28,33 +28,5 @@ public class BaseHero : MonoBehaviour
 
     public Element element;
     public Rarity rarity;
-
-    [Header("General")]
-    [SerializeField] GameObject ability1; // this should be changed to an ability class maybe???
-    [SerializeField] GameObject ability2; // use a list
-    [SerializeField] GameObject ability3;
-
-
-    public bool TakeDamage(int dmgAmount)
-    {
-        currentHP -= dmgAmount; // subtracts dmg from current HP.. apparently
-
-        if(currentHP <= 0)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
-
-    public void Heal (int healAmount)
-    {
-        currentHP += healAmount;
-        if(currentHP > maxHP)
-        {
-            currentHP = maxHP;
-        }
-    }
+    
 }

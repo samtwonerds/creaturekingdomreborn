@@ -9,10 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6698893804511930031}
-  - component: {fileID: 3365169171879715740}
+  - component: {fileID: -5539936189702878598}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Hero
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32,7 +32,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3365169171879715740
+--- !u!114 &-5539936189702878598
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,15 +41,27 @@ MonoBehaviour:
   m_GameObject: {fileID: 4502755434493612418}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e3b80c4a1ca11294d98c9d58d6bded57, type: 3}
+  m_Script: {fileID: 11500000, guid: cbd853c55fcf57147aa5771470a8a194, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Svarling
-  unitLevel: 999
-  damage: 10
-  heal: 6
-  maxHP: 25
-  currentHP: 20
+  unitName: 
+  unitLevel: 0
+  unitRank: 0
+  strength: 0
+  defence: 0
+  agility: 0
+  critChance: 0
+  critDamage: 0
+  evasion: 0
+  accuracy: 0
+  maxHP: 0
+  currentHP: 0
+  damage: 0
+  heal: 0
+  element: 0
+  rarity: 0
+  hero: {fileID: 0}
+  actionBar: {fileID: 0}
 --- !u!1001 &5793560216366478295
 PrefabInstance:
   m_ObjectHideFlags: 0
