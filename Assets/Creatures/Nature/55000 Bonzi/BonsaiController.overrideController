@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BonsaiController
+  m_Controller: {fileID: 9100000, guid: 746da75aa4e1ded4eaf0a3767aa107cb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7d66607d2733cff488affd1b0b689169, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4dff2ff972a813346afef96923f18b4a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8dd6321db7863334ca295c67ebd0439c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c77347312cde1d40a898edbc467320a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d8675a16a778544188244030baae21b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ad2738bae161e64b97f71ac253ecf6a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c07ca5f599d70d54180f95fc6ea6f322, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7eb1d0d894fc4247a206f43895c17ad, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b5a283223fed9ec4c95cc8bde7bf0464, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5962abc815a4fbc4daa98a139298f4cc, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1a4295cc3fd4cae48b3021d37679d964, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 63de18cda21a16f4c94af7cefd339b91, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 95f74c1d5825d1a41a6e504ede766aa0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0acb9d612fd3aa240ad1efdec62b8b67, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b4563cef66311284a85f784951c0fe43, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd4aaa53658c6064aa5f27450364b469, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6af06db332d62bd4493c70a3e020f6c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7aeb6acf5d2f35949b0d79134cf78185, type: 3}
