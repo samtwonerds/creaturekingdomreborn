@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 33271f0e5facf63479c7f6e01f5a52ca
+timeCreated: 1554722168
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _REF_PROJECTILE
+    100002: AttackDepth_A
+    100004: AttackDepth_B
+    100006: AttackDepth_C
+    100008: Bip001
+    100010: Bip001 Eye_lid2
+    100012: Bip001 Eye_lid2Nub
+    100014: Bip001 Eye_lid2Opp
+    100016: Bip001 Eye_lid2OppNub
+    100018: Bip001 Footsteps
+    100020: Bip001 Head
+    100022: Bip001 Head_MFeather
+    100024: Bip001 Head_MFeather02
+    100026: Bip001 Head_MFeatherNub
+    100028: Bip001 HeadNub
+    100030: Bip001 L Calf
+    100032: Bip001 L Foot
+    100034: Bip001 L HorseLink
+    100036: Bip001 L Thigh
+    100038: Bip001 L Toe0
+    100040: Bip001 L Toe0Nub
+    100042: Bip001 L Toe1
+    100044: Bip001 L Toe1Nub
+    100046: Bip001 L Toe2
+    100048: Bip001 L Toe2Nub
+    100050: Bip001 L_HeadFeather
+    100052: Bip001 L_HeadFeather02
+    100054: Bip001 L_HeadFeatherNub
+    100056: Bip001 L_Tail
+    100058: Bip001 L_Tail02
+    100060: Bip001 L_Tail03
+    100062: Bip001 L_TailNub
+    100064: Bip001 Mouth
+    100066: Bip001 MouthNub
+    100068: Bip001 Neck
+    100070: Bip001 Pelvis
+    100072: Bip001 R Calf
+    100074: Bip001 R Foot
+    100076: Bip001 R HorseLink
+    100078: Bip001 R Thigh
+    100080: Bip001 R Toe0
+    100082: Bip001 R Toe0Nub
+    100084: Bip001 R Toe1
+    100086: Bip001 R Toe1Nub
+    100088: Bip001 R Toe2
+    100090: Bip001 R Toe2Nub
+    100092: Bip001 R_eyeLid
+    100094: Bip001 R_eyeLidNub
+    100096: Bip001 R_eyeLidOpp
+    100098: Bip001 R_eyeLidOppNub
+    100100: Bip001 R_HeadFeather
+    100102: Bip001 R_HeadFeather02
+    100104: Bip001 R_HeadFeatherNub
+    100106: Bip001 R_Tail
+    100108: Bip001 R_Tail02
+    100110: Bip001 R_Tail03
+    100112: Bip001 R_TailNub
+    100114: Bip001 R_Wing
+    100116: Bip001 R_Wing02
+    100118: Bip001 R_WingFeather1
+    100120: Bip001 R_WingFeather1Nub
+    100122: Bip001 R_WingFeather1Opp
+    100124: Bip001 R_WingFeather1OppNub
+    100126: Bip001 R_WingFeather2
+    100128: Bip001 R_WingFeather2Nub
+    100130: Bip001 R_WingFeather2Opp
+    100132: Bip001 R_WingFeather2OppNub
+    100134: Bip001 R_WingFeather3
+    100136: Bip001 R_WingFeather3Nub
+    100138: Bip001 R_WingFeather3Opp
+    100140: Bip001 R_WingFeather3OppNub
+    100142: Bip001 R_WingFeather4
+    100144: Bip001 R_WingFeather4Nub
+    100146: Bip001 R_WingFeather4Opp
+    100148: Bip001 R_WingFeather4OppNub
+    100150: Bip001 R_WingNub
+    100152: Bip001 R_WingOpp
+    100154: Bip001 R_WingOpp02
+    100156: Bip001 R_WingOppNub
+    100158: Bip001 Spine
+    100160: Bip001 Spine1
+    100162: //RootNode
+    100164: Height_0
+    100166: Height_1
+    100168: Height_2
+    100170: Height_3
+    100172: Height_4
+    100174: Height_5
+    100176: Height_6
+    100178: Height_7
+    100180: Height_L_1
+    100182: Height_L_2
+    100184: Height_L_3
+    100186: Height_L_4
+    100188: Height_L_5
+    100190: Height_L_6
+    100192: Height_L_7
+    100194: Height_R_1
+    100196: Height_R_2
+    100198: Height_R_3
+    100200: Height_R_4
+    100202: Height_R_5
+    100204: Height_R_6
+    100206: Height_R_7
+    100208: Phoenix_FirePhoenix
+    100210: Root
+    100212: root
+    400000: _REF_PROJECTILE
+    400002: AttackDepth_A
+    400004: AttackDepth_B
+    400006: AttackDepth_C
+    400008: Bip001
+    400010: Bip001 Eye_lid2
+    400012: Bip001 Eye_lid2Nub
+    400014: Bip001 Eye_lid2Opp
+    400016: Bip001 Eye_lid2OppNub
+    400018: Bip001 Footsteps
+    400020: Bip001 Head
+    400022: Bip001 Head_MFeather
+    400024: Bip001 Head_MFeather02
+    400026: Bip001 Head_MFeatherNub
+    400028: Bip001 HeadNub
+    400030: Bip001 L Calf
+    400032: Bip001 L Foot
+    400034: Bip001 L HorseLink
+    400036: Bip001 L Thigh
+    400038: Bip001 L Toe0
+    400040: Bip001 L Toe0Nub
+    400042: Bip001 L Toe1
+    400044: Bip001 L Toe1Nub
+    400046: Bip001 L Toe2
+    400048: Bip001 L Toe2Nub
+    400050: Bip001 L_HeadFeather
+    400052: Bip001 L_HeadFeather02
+    400054: Bip001 L_HeadFeatherNub
+    400056: Bip001 L_Tail
+    400058: Bip001 L_Tail02
+    400060: Bip001 L_Tail03
+    400062: Bip001 L_TailNub
+    400064: Bip001 Mouth
+    400066: Bip001 MouthNub
+    400068: Bip001 Neck
+    400070: Bip001 Pelvis
+    400072: Bip001 R Calf
+    400074: Bip001 R Foot
+    400076: Bip001 R HorseLink
+    400078: Bip001 R Thigh
+    400080: Bip001 R Toe0
+    400082: Bip001 R Toe0Nub
+    400084: Bip001 R Toe1
+    400086: Bip001 R Toe1Nub
+    400088: Bip001 R Toe2
+    400090: Bip001 R Toe2Nub
+    400092: Bip001 R_eyeLid
+    400094: Bip001 R_eyeLidNub
+    400096: Bip001 R_eyeLidOpp
+    400098: Bip001 R_eyeLidOppNub
+    400100: Bip001 R_HeadFeather
+    400102: Bip001 R_HeadFeather02
+    400104: Bip001 R_HeadFeatherNub
+    400106: Bip001 R_Tail
+    400108: Bip001 R_Tail02
+    400110: Bip001 R_Tail03
+    400112: Bip001 R_TailNub
+    400114: Bip001 R_Wing
+    400116: Bip001 R_Wing02
+    400118: Bip001 R_WingFeather1
+    400120: Bip001 R_WingFeather1Nub
+    400122: Bip001 R_WingFeather1Opp
+    400124: Bip001 R_WingFeather1OppNub
+    400126: Bip001 R_WingFeather2
+    400128: Bip001 R_WingFeather2Nub
+    400130: Bip001 R_WingFeather2Opp
+    400132: Bip001 R_WingFeather2OppNub
+    400134: Bip001 R_WingFeather3
+    400136: Bip001 R_WingFeather3Nub
+    400138: Bip001 R_WingFeather3Opp
+    400140: Bip001 R_WingFeather3OppNub
+    400142: Bip001 R_WingFeather4
+    400144: Bip001 R_WingFeather4Nub
+    400146: Bip001 R_WingFeather4Opp
+    400148: Bip001 R_WingFeather4OppNub
+    400150: Bip001 R_WingNub
+    400152: Bip001 R_WingOpp
+    400154: Bip001 R_WingOpp02
+    400156: Bip001 R_WingOppNub
+    400158: Bip001 Spine
+    400160: Bip001 Spine1
+    400162: //RootNode
+    400164: Height_0
+    400166: Height_1
+    400168: Height_2
+    400170: Height_3
+    400172: Height_4
+    400174: Height_5
+    400176: Height_6
+    400178: Height_7
+    400180: Height_L_1
+    400182: Height_L_2
+    400184: Height_L_3
+    400186: Height_L_4
+    400188: Height_L_5
+    400190: Height_L_6
+    400192: Height_L_7
+    400194: Height_R_1
+    400196: Height_R_2
+    400198: Height_R_3
+    400200: Height_R_4
+    400202: Height_R_5
+    400204: Height_R_6
+    400206: Height_R_7
+    400208: Phoenix_FirePhoenix
+    400210: Root
+    400212: root
+    2100000: 'Material #2'
+    4300000: Phoenix_FirePhoenix
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Phoenix_FirePhoenix
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 48c0c5066ad32c94fb146cc8e263cc82, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

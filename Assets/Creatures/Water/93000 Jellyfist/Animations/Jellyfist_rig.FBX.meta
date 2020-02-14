@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 94ccc7db3510f8743bb5db1162806c48
+timeCreated: 1556022035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _REF_PROJECTILE
+    100002: AttackDepth_A
+    100004: AttackDepth_B
+    100006: AttackDepth_C
+    100008: Bip001
+    100010: Bip001 Footsteps
+    100012: Bip001 Pelvis
+    100014: Body_Lower
+    100016: Body_Upper
+    100018: Height_0
+    100020: Height_1
+    100022: Height_2
+    100024: Height_3
+    100026: Height_4
+    100028: Height_5
+    100030: Height_L_1
+    100032: Height_L_2
+    100034: Height_L_3
+    100036: Height_L_4
+    100038: Height_L_5
+    100040: Height_R_1
+    100042: Height_R_2
+    100044: Height_R_3
+    100046: Height_R_4
+    100048: Height_R_5
+    100050: Jawbone
+    100052: JellyFist
+    100054: //RootNode
+    100056: Left_Eye
+    100058: Left_Eyelid_Lower
+    100060: Left_Eyelid_Upper
+    100062: Right_Eye
+    100064: Right_Eyelid_Lower
+    100066: Right_Eyelid_Upper
+    100068: Root
+    100070: Tentacle_Back_Left_01
+    100072: Tentacle_Back_Left_02
+    100074: Tentacle_Back_Left_03
+    100076: Tentacle_Back_Left_04
+    100078: Tentacle_Back_Right_01
+    100080: Tentacle_Back_Right_02
+    100082: Tentacle_Back_Right_03
+    100084: Tentacle_Back_Right_04
+    100086: Tentacle_Front_Left_01
+    100088: Tentacle_Front_Left_02
+    100090: Tentacle_Front_Left_03
+    100092: Tentacle_Front_Left_04
+    100094: Tentacle_Front_Right_01
+    100096: Tentacle_Front_Right_02
+    100098: Tentacle_Front_Right_03
+    100100: Tentacle_Front_Right_04
+    400000: _REF_PROJECTILE
+    400002: AttackDepth_A
+    400004: AttackDepth_B
+    400006: AttackDepth_C
+    400008: Bip001
+    400010: Bip001 Footsteps
+    400012: Bip001 Pelvis
+    400014: Body_Lower
+    400016: Body_Upper
+    400018: Height_0
+    400020: Height_1
+    400022: Height_2
+    400024: Height_3
+    400026: Height_4
+    400028: Height_5
+    400030: Height_L_1
+    400032: Height_L_2
+    400034: Height_L_3
+    400036: Height_L_4
+    400038: Height_L_5
+    400040: Height_R_1
+    400042: Height_R_2
+    400044: Height_R_3
+    400046: Height_R_4
+    400048: Height_R_5
+    400050: Jawbone
+    400052: JellyFist
+    400054: //RootNode
+    400056: Left_Eye
+    400058: Left_Eyelid_Lower
+    400060: Left_Eyelid_Upper
+    400062: Right_Eye
+    400064: Right_Eyelid_Lower
+    400066: Right_Eyelid_Upper
+    400068: Root
+    400070: Tentacle_Back_Left_01
+    400072: Tentacle_Back_Left_02
+    400074: Tentacle_Back_Left_03
+    400076: Tentacle_Back_Left_04
+    400078: Tentacle_Back_Right_01
+    400080: Tentacle_Back_Right_02
+    400082: Tentacle_Back_Right_03
+    400084: Tentacle_Back_Right_04
+    400086: Tentacle_Front_Left_01
+    400088: Tentacle_Front_Left_02
+    400090: Tentacle_Front_Left_03
+    400092: Tentacle_Front_Left_04
+    400094: Tentacle_Front_Right_01
+    400096: Tentacle_Front_Right_02
+    400098: Tentacle_Front_Right_03
+    400100: Tentacle_Front_Right_04
+    2100000: 'Material #25'
+    4300000: JellyFist
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: JellyFist
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: deeb82dcb813a9e4ea17daa0c8d8c607, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 592aa0e14624b18429706c525327da39
+timeCreated: 1555062744
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Beak
+    100002: Bip001
+    100004: Bip001 Footsteps
+    100006: Bip001 Head
+    100008: Bip001 L Calf
+    100010: Bip001 L Foot
+    100012: Bip001 L HorseLink
+    100014: Bip001 L Thigh
+    100016: Bip001 L Toe0
+    100018: Bip001 Neck
+    100020: Bip001 Pelvis
+    100022: Bip001 R Calf
+    100024: Bip001 R Foot
+    100026: Bip001 R HorseLink
+    100028: Bip001 R Thigh
+    100030: Bip001 R Toe0
+    100032: Bip001 Spine
+    100034: Bip001 Spine1
+    100036: //RootNode
+    100038: Electric_BlueBird
+    100040: Left_eye
+    100042: Left_Tail_03
+    100044: Left_Tail_04
+    100046: Left_wing_01
+    100048: Left_wing_02
+    100050: Left_wing_03
+    100052: Left_wing_04
+    100054: Left_wing_05
+    100056: Right_eye
+    100058: Right_Tail_03
+    100060: Right_Tail_04
+    100062: Right_wing_01
+    100064: Right_wing_02
+    100066: Right_wing_03
+    100068: Right_wing_04
+    100070: Right_wing_05
+    100072: root
+    100074: Tail_01
+    100076: Tail_02
+    400000: Beak
+    400002: Bip001
+    400004: Bip001 Footsteps
+    400006: Bip001 Head
+    400008: Bip001 L Calf
+    400010: Bip001 L Foot
+    400012: Bip001 L HorseLink
+    400014: Bip001 L Thigh
+    400016: Bip001 L Toe0
+    400018: Bip001 Neck
+    400020: Bip001 Pelvis
+    400022: Bip001 R Calf
+    400024: Bip001 R Foot
+    400026: Bip001 R HorseLink
+    400028: Bip001 R Thigh
+    400030: Bip001 R Toe0
+    400032: Bip001 Spine
+    400034: Bip001 Spine1
+    400036: //RootNode
+    400038: Electric_BlueBird
+    400040: Left_eye
+    400042: Left_Tail_03
+    400044: Left_Tail_04
+    400046: Left_wing_01
+    400048: Left_wing_02
+    400050: Left_wing_03
+    400052: Left_wing_04
+    400054: Left_wing_05
+    400056: Right_eye
+    400058: Right_Tail_03
+    400060: Right_Tail_04
+    400062: Right_wing_01
+    400064: Right_wing_02
+    400066: Right_wing_03
+    400068: Right_wing_04
+    400070: Right_wing_05
+    400072: root
+    400074: Tail_01
+    400076: Tail_02
+    2100000: 'Material #2'
+    4300000: Electric_BlueBird
+    7400000: Bluebird_battle_idle
+    9500000: //RootNode
+    13700000: Electric_BlueBird
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: a5208275b8a5b50419ef1b0f4be3d904, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bluebird_battle_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4f4b9b564747fd641923eba970687e01,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

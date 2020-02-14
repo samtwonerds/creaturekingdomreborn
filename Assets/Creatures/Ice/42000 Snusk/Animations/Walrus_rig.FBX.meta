@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 6180b22e1352ab34095f03cb69d608a3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _REF_PROJECTILE
+    100004: AttackDepth_A
+    100006: AttackDepth_B
+    100008: AttackDepth_C
+    100010: Bip001
+    100012: Bip001 Footsteps
+    100014: Bip001 Head
+    100016: Bip001 Neck
+    100018: Bip001 Pelvis
+    100020: Bip001 Spine
+    100022: Height_0
+    100024: Height_1
+    100026: Height_2
+    100028: Height_3
+    100030: Height_L_1
+    100032: Height_L_2
+    100034: Height_L_3
+    100036: Height_R_1
+    100038: Height_R_2
+    100040: Height_R_3
+    100042: Jawbone
+    100044: Left_Eyelid_Lower
+    100046: Left_Eyelid_Upper
+    100048: Left_Fin_01
+    100050: Left_Fin_02
+    100052: Right_Eyelid_Lower
+    100054: Right_Eyelid_Upper
+    100056: Right_Fin_01
+    100058: Right_Fin_02
+    100060: root
+    100062: Tail_01
+    100064: Tail_02
+    100066: Tail_03
+    100068: Tail_04
+    100070: Tail_left
+    100072: Tail_right
+    100074: Walrus
+    100076: Whiskers_left_01
+    100078: Whiskers_left_02
+    100080: Whiskers_right_01
+    100082: Whiskers_right_02
+    400000: //RootNode
+    400002: _REF_PROJECTILE
+    400004: AttackDepth_A
+    400006: AttackDepth_B
+    400008: AttackDepth_C
+    400010: Bip001
+    400012: Bip001 Footsteps
+    400014: Bip001 Head
+    400016: Bip001 Neck
+    400018: Bip001 Pelvis
+    400020: Bip001 Spine
+    400022: Height_0
+    400024: Height_1
+    400026: Height_2
+    400028: Height_3
+    400030: Height_L_1
+    400032: Height_L_2
+    400034: Height_L_3
+    400036: Height_R_1
+    400038: Height_R_2
+    400040: Height_R_3
+    400042: Jawbone
+    400044: Left_Eyelid_Lower
+    400046: Left_Eyelid_Upper
+    400048: Left_Fin_01
+    400050: Left_Fin_02
+    400052: Right_Eyelid_Lower
+    400054: Right_Eyelid_Upper
+    400056: Right_Fin_01
+    400058: Right_Fin_02
+    400060: root
+    400062: Tail_01
+    400064: Tail_02
+    400066: Tail_03
+    400068: Tail_04
+    400070: Tail_left
+    400072: Tail_right
+    400074: Walrus
+    400076: Whiskers_left_01
+    400078: Whiskers_left_02
+    400080: Whiskers_right_01
+    400082: Whiskers_right_02
+    2100000: 'Material #25'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Walrus
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Walrus
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 499a0268a6c57df4b9a6041ea97f636f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 847858ca3d7d48b4d8825d6d19efcfc0
+timeCreated: 1521815405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip002
+    100002: Bip002 Head
+    100004: Bip002 L Calf
+    100006: Bip002 L Clavicle
+    100008: Bip002 L Finger0
+    100010: Bip002 L Foot
+    100012: Bip002 L Forearm
+    100014: Bip002 L Hand
+    100016: Bip002 L HorseLink
+    100018: Bip002 L Thigh
+    100020: Bip002 L Toe0
+    100022: Bip002 L UpperArm
+    100024: Bip002 Neck
+    100026: Bip002 Neck1
+    100028: Bip002 Neck2
+    100030: Bip002 Pelvis
+    100032: Bip002 R Calf
+    100034: Bip002 R Clavicle
+    100036: Bip002 R Finger0
+    100038: Bip002 R Foot
+    100040: Bip002 R Forearm
+    100042: Bip002 R Hand
+    100044: Bip002 R HorseLink
+    100046: Bip002 R Thigh
+    100048: Bip002 R Toe0
+    100050: Bip002 R UpperArm
+    100052: Bip002 Spine
+    100054: Bip002 Spine1
+    100056: Bip002 Tail
+    100058: Bip002 Tail1
+    100060: Bip002 Tail2
+    100062: Body
+    100064: FIRE_DRAGON
+    100066: //RootNode
+    100068: jawbone
+    100070: l_ear_1
+    100072: l_ear_2
+    100074: l_ear_3
+    100076: l_eye
+    100078: l_eyelid
+    100080: l_wing_1
+    100082: l_wing_2
+    100084: l_wing_3
+    100086: r_ear_1
+    100088: r_ear_2
+    100090: r_ear_3
+    100092: r_eye
+    100094: r_eyelid
+    100096: r_wing_1
+    100098: r_wing_2
+    100100: r_wing_3
+    100102: root
+    100104: _Fire_Dragon_Adult
+    100106: _REF_PROJECTILE
+    100108: AttackDepth_A
+    100110: AttackDepth_B
+    100112: AttackDepth_C
+    100114: Height_0
+    100116: Height_1
+    100118: Height_2
+    100120: Height_3
+    100122: Height_4
+    100124: Height_5
+    100126: Height_6
+    100128: Height_7
+    100130: Height_8
+    100132: Height_L_1
+    100134: Height_L_2
+    100136: Height_L_3
+    100138: Height_L_4
+    100140: Height_L_5
+    100142: Height_L_6
+    100144: Height_L_7
+    100146: Height_L_8
+    100148: Height_R_1
+    100150: Height_R_2
+    100152: Height_R_3
+    100154: Height_R_4
+    100156: Height_R_5
+    100158: Height_R_6
+    100160: Height_R_7
+    100162: Height_R_8
+    100164: Jawbone
+    100166: l_ear_4
+    100168: L_Eyelid_lower
+    100170: L_Eyelid_upper
+    100172: Left_Eye
+    100174: Left_Wing_01
+    100176: Left_Wing_02
+    100178: Left_Wing_03
+    100180: r_ear_4
+    100182: R_Eyelid_lower
+    100184: R_Eyelid_upper
+    100186: Right_eye
+    100188: Right_Wing_01
+    100190: Right_Wing_02
+    100192: Right_Wing_03
+    400000: Bip002
+    400002: Bip002 Head
+    400004: Bip002 L Calf
+    400006: Bip002 L Clavicle
+    400008: Bip002 L Finger0
+    400010: Bip002 L Foot
+    400012: Bip002 L Forearm
+    400014: Bip002 L Hand
+    400016: Bip002 L HorseLink
+    400018: Bip002 L Thigh
+    400020: Bip002 L Toe0
+    400022: Bip002 L UpperArm
+    400024: Bip002 Neck
+    400026: Bip002 Neck1
+    400028: Bip002 Neck2
+    400030: Bip002 Pelvis
+    400032: Bip002 R Calf
+    400034: Bip002 R Clavicle
+    400036: Bip002 R Finger0
+    400038: Bip002 R Foot
+    400040: Bip002 R Forearm
+    400042: Bip002 R Hand
+    400044: Bip002 R HorseLink
+    400046: Bip002 R Thigh
+    400048: Bip002 R Toe0
+    400050: Bip002 R UpperArm
+    400052: Bip002 Spine
+    400054: Bip002 Spine1
+    400056: Bip002 Tail
+    400058: Bip002 Tail1
+    400060: Bip002 Tail2
+    400062: Body
+    400064: FIRE_DRAGON
+    400066: //RootNode
+    400068: jawbone
+    400070: l_ear_1
+    400072: l_ear_2
+    400074: l_ear_3
+    400076: l_eye
+    400078: l_eyelid
+    400080: l_wing_1
+    400082: l_wing_2
+    400084: l_wing_3
+    400086: r_ear_1
+    400088: r_ear_2
+    400090: r_ear_3
+    400092: r_eye
+    400094: r_eyelid
+    400096: r_wing_1
+    400098: r_wing_2
+    400100: r_wing_3
+    400102: root
+    400104: _Fire_Dragon_Adult
+    400106: _REF_PROJECTILE
+    400108: AttackDepth_A
+    400110: AttackDepth_B
+    400112: AttackDepth_C
+    400114: Height_0
+    400116: Height_1
+    400118: Height_2
+    400120: Height_3
+    400122: Height_4
+    400124: Height_5
+    400126: Height_6
+    400128: Height_7
+    400130: Height_8
+    400132: Height_L_1
+    400134: Height_L_2
+    400136: Height_L_3
+    400138: Height_L_4
+    400140: Height_L_5
+    400142: Height_L_6
+    400144: Height_L_7
+    400146: Height_L_8
+    400148: Height_R_1
+    400150: Height_R_2
+    400152: Height_R_3
+    400154: Height_R_4
+    400156: Height_R_5
+    400158: Height_R_6
+    400160: Height_R_7
+    400162: Height_R_8
+    400164: Jawbone
+    400166: l_ear_4
+    400168: L_Eyelid_lower
+    400170: L_Eyelid_upper
+    400172: Left_Eye
+    400174: Left_Wing_01
+    400176: Left_Wing_02
+    400178: Left_Wing_03
+    400180: r_ear_4
+    400182: R_Eyelid_lower
+    400184: R_Eyelid_upper
+    400186: Right_eye
+    400188: Right_Wing_01
+    400190: Right_Wing_02
+    400192: Right_Wing_03
+    2100000: 'Material #18'
+    4300000: Body
+    4300002: _Fire_Dragon_Adult
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: _Fire_Dragon_Adult
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #18'
+    second: {fileID: 2100000, guid: e437f76e8b8a08947849baf45958687b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #8'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

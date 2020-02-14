@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 06a239782d6fc1f429fae5b740b55b3b
+timeCreated: 1560757615
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _REF_PROJECTILE
+    100002: //RootNode
+    100004: AlienDeer
+    100006: AttackDepth_A
+    100008: AttackDepth_B
+    100010: Bip001
+    100012: Bip001 Footsteps
+    100014: Bip001 Head
+    100016: Bip001 L Calf
+    100018: Bip001 L Clavicle
+    100020: Bip001 L Finger0
+    100022: Bip001 L Foot
+    100024: Bip001 L Forearm
+    100026: Bip001 L Hand
+    100028: Bip001 L HorseLink
+    100030: Bip001 L Thigh
+    100032: Bip001 L Toe0
+    100034: Bip001 L UpperArm
+    100036: Bip001 Neck
+    100038: Bip001 Neck1
+    100040: Bip001 Pelvis
+    100042: Bip001 R Calf
+    100044: Bip001 R Clavicle
+    100046: Bip001 R Finger0
+    100048: Bip001 R Foot
+    100050: Bip001 R Forearm
+    100052: Bip001 R Hand
+    100054: Bip001 R HorseLink
+    100056: Bip001 R Thigh
+    100058: Bip001 R Toe0
+    100060: Bip001 R UpperArm
+    100062: Bip001 Spine
+    100064: Bip001 Spine1
+    100066: Hair_left_01
+    100068: Hair_left_02
+    100070: Hair_left_03
+    100072: Hair_right_01
+    100074: Hair_right_02
+    100076: Hair_right_03
+    100078: Height_0
+    100080: Height_1
+    100082: Height_2
+    100084: Height_3
+    100086: Height_4
+    100088: Height_L_1
+    100090: Height_L_2
+    100092: Height_L_3
+    100094: Height_L_4
+    100096: Height_R_1
+    100098: Height_R_2
+    100100: Height_R_3
+    100102: Height_R_4
+    100104: Left_Ear_01
+    100106: Left_Ear_02
+    100108: Left_eyelid_lower
+    100110: Left_eyelid_upper
+    100112: Right_Ear_01
+    100114: Right_Ear_02
+    100116: Right_eyelid_lower
+    100118: Right_eyelid_upper
+    100120: root
+    100122: Tail_01
+    100124: Tail_02
+    100126: Tail_03
+    100128: Tail_04
+    100130: Tail_05
+    100132: Tail_06
+    100134: Tail_07
+    100136: Tail_08
+    100138: Tail_09
+    400000: _REF_PROJECTILE
+    400002: //RootNode
+    400004: AlienDeer
+    400006: AttackDepth_A
+    400008: AttackDepth_B
+    400010: Bip001
+    400012: Bip001 Footsteps
+    400014: Bip001 Head
+    400016: Bip001 L Calf
+    400018: Bip001 L Clavicle
+    400020: Bip001 L Finger0
+    400022: Bip001 L Foot
+    400024: Bip001 L Forearm
+    400026: Bip001 L Hand
+    400028: Bip001 L HorseLink
+    400030: Bip001 L Thigh
+    400032: Bip001 L Toe0
+    400034: Bip001 L UpperArm
+    400036: Bip001 Neck
+    400038: Bip001 Neck1
+    400040: Bip001 Pelvis
+    400042: Bip001 R Calf
+    400044: Bip001 R Clavicle
+    400046: Bip001 R Finger0
+    400048: Bip001 R Foot
+    400050: Bip001 R Forearm
+    400052: Bip001 R Hand
+    400054: Bip001 R HorseLink
+    400056: Bip001 R Thigh
+    400058: Bip001 R Toe0
+    400060: Bip001 R UpperArm
+    400062: Bip001 Spine
+    400064: Bip001 Spine1
+    400066: Hair_left_01
+    400068: Hair_left_02
+    400070: Hair_left_03
+    400072: Hair_right_01
+    400074: Hair_right_02
+    400076: Hair_right_03
+    400078: Height_0
+    400080: Height_1
+    400082: Height_2
+    400084: Height_3
+    400086: Height_4
+    400088: Height_L_1
+    400090: Height_L_2
+    400092: Height_L_3
+    400094: Height_L_4
+    400096: Height_R_1
+    400098: Height_R_2
+    400100: Height_R_3
+    400102: Height_R_4
+    400104: Left_Ear_01
+    400106: Left_Ear_02
+    400108: Left_eyelid_lower
+    400110: Left_eyelid_upper
+    400112: Right_Ear_01
+    400114: Right_Ear_02
+    400116: Right_eyelid_lower
+    400118: Right_eyelid_upper
+    400120: root
+    400122: Tail_01
+    400124: Tail_02
+    400126: Tail_03
+    400128: Tail_04
+    400130: Tail_05
+    400132: Tail_06
+    400134: Tail_07
+    400136: Tail_08
+    400138: Tail_09
+    2100000: 'Material #2'
+    4300000: AlienDeer
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: AlienDeer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 610a0d2d53d85cb4aa18a74562363711, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

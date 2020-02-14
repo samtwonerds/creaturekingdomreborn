@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 0f43817212804e74da997a1a3a435d5c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _REF_PROJECTILE
+    100004: AttackDepth_A
+    100006: AttackDepth_B
+    100008: AttackDepth_C
+    100010: Bip001
+    100012: Bip001 Footsteps
+    100014: Bip001 Head
+    100016: Bip001 Neck
+    100018: Bip001 Pelvis
+    100020: Bip001 Spine
+    100022: Bowl
+    100024: Height_0
+    100026: Height_1
+    100028: Height_2
+    100030: Height_3
+    100032: Height_4
+    100034: Height_5
+    100036: Height_L_1
+    100038: Height_L_2
+    100040: Height_L_3
+    100042: Height_L_4
+    100044: Height_L_5
+    100046: Height_R_1
+    100048: Height_R_2
+    100050: Height_R_3
+    100052: Height_R_4
+    100054: Height_R_5
+    100056: Jawbone
+    100058: Left_Eye
+    100060: Left_Eyelid_Lower
+    100062: Left_Eyelid_Upper
+    100064: Left_Fin_01
+    100066: Left_Fin_02
+    100068: Right_Eye
+    100070: Right_Eyelid_Lower
+    100072: Right_Eyelid_Upper
+    100074: Right_Fin_01
+    100076: Right_Fin_02
+    100078: root
+    100080: Tail_01
+    100082: Tail_02
+    100084: Tail_03
+    100086: Tail_04
+    100088: Tail_left_01
+    100090: Tail_left_02
+    100092: Tail_right_01
+    100094: Tail_right_02
+    100096: Water
+    100098: Whale
+    100100: WhaleGlass
+    400000: //RootNode
+    400002: _REF_PROJECTILE
+    400004: AttackDepth_A
+    400006: AttackDepth_B
+    400008: AttackDepth_C
+    400010: Bip001
+    400012: Bip001 Footsteps
+    400014: Bip001 Head
+    400016: Bip001 Neck
+    400018: Bip001 Pelvis
+    400020: Bip001 Spine
+    400022: Bowl
+    400024: Height_0
+    400026: Height_1
+    400028: Height_2
+    400030: Height_3
+    400032: Height_4
+    400034: Height_5
+    400036: Height_L_1
+    400038: Height_L_2
+    400040: Height_L_3
+    400042: Height_L_4
+    400044: Height_L_5
+    400046: Height_R_1
+    400048: Height_R_2
+    400050: Height_R_3
+    400052: Height_R_4
+    400054: Height_R_5
+    400056: Jawbone
+    400058: Left_Eye
+    400060: Left_Eyelid_Lower
+    400062: Left_Eyelid_Upper
+    400064: Left_Fin_01
+    400066: Left_Fin_02
+    400068: Right_Eye
+    400070: Right_Eyelid_Lower
+    400072: Right_Eyelid_Upper
+    400074: Right_Fin_01
+    400076: Right_Fin_02
+    400078: root
+    400080: Tail_01
+    400082: Tail_02
+    400084: Tail_03
+    400086: Tail_04
+    400088: Tail_left_01
+    400090: Tail_left_02
+    400092: Tail_right_01
+    400094: Tail_right_02
+    400096: Water
+    400098: Whale
+    400100: WhaleGlass
+    2100000: 'Material #38'
+    2100002: 'Material #26'
+    2100004: 'Material #25'
+    2300000: //RootNode
+    2300002: WhaleGlass
+    3300000: //RootNode
+    3300002: WhaleGlass
+    4300000: Whale
+    4300002: WhaleGlass
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Whale
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 5e84344f09f33f34884b43e4f104eeff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 5e84344f09f33f34884b43e4f104eeff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

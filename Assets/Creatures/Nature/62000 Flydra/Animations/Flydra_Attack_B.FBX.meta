@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 7e8ddb0f135b371409c03ed44fec0cae
+timeCreated: 1554286808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Finger1
+    100018: Bip001 L Finger1Nub
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger2Nub
+    100024: Bip001 L Finger3
+    100026: Bip001 L Finger3Nub
+    100028: Bip001 L Foot
+    100030: Bip001 L Forearm
+    100032: Bip001 L Hand
+    100034: Bip001 L Thigh
+    100036: Bip001 L Toe0
+    100038: Bip001 L Toe0Nub
+    100040: Bip001 L UpperArm
+    100042: Bip001 LowerEyelid01
+    100044: Bip001 LowerEyelid02
+    100046: Bip001 LowerEyelid03
+    100048: Bip001 LowerEyelid09
+    100050: Bip001 LowerLid07
+    100052: Bip001 Lowerlid11
+    100054: Bip001 Neck
+    100056: Bip001 Neck1
+    100058: Bip001 Pelvis
+    100060: Bip001 R Calf
+    100062: Bip001 R Clavicle
+    100064: Bip001 R Finger0
+    100066: Bip001 R Finger0Nub
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger1Nub
+    100072: Bip001 R Finger2
+    100074: Bip001 R Finger2Nub
+    100076: Bip001 R Finger3
+    100078: Bip001 R Finger3Nub
+    100080: Bip001 R Foot
+    100082: Bip001 R Forearm
+    100084: Bip001 R Hand
+    100086: Bip001 R Thigh
+    100088: Bip001 R Toe0
+    100090: Bip001 R Toe0Nub
+    100092: Bip001 R UpperArm
+    100094: Bip001 Spine
+    100096: Bip001 Spine1
+    100098: Bip001 TopEyelid01
+    100100: Bip001 TopEyelid02
+    100102: Bip001 TopEyelid03
+    100104: Bip001 TopEyelid10
+    100106: Bip001 TopLid08
+    100108: Bip001 Toplid12
+    100110: Bip001 Xtra01Nub
+    100112: Bip001 Xtra02Nub
+    100114: Bip001 Xtra03Nub
+    100116: Bip001 Xtra03OppNub
+    100118: Bip001 Xtra04Nub
+    100120: Bip001 Xtra04OppNub
+    100122: Bip001 Xtra05Nub
+    100124: Bip001 Xtra05OppNub
+    100126: Bip001 Xtra06Nub
+    100128: Bip001 Xtra07Nub
+    100130: Bip001 Xtra07OppNub
+    100132: Bip001 Xtra08Nub
+    100134: Bip001 Xtra09Nub
+    100136: Bip001 Xtra09OppNub
+    100138: Bip001 Xtra10
+    100140: Bip001 Xtra10Nub
+    100142: Bip001 Xtra11Nub
+    100144: Bip001 Xtra12Nub
+    100146: Bip001 Xtra13Nub
+    100148: Bip001 Xtra14Nub
+    100150: Bip001 Xtra15
+    100152: Bip001 Xtra15Nub
+    100154: Eyes
+    100156: Flydra
+    100158: Flydra 1
+    100160: //RootNode
+    100162: Left_Head
+    100164: Left_Jawbone
+    100166: Left_Neck_01
+    100168: Left_Neck_02
+    100170: LH
+    100172: MH
+    100174: Middle_Head
+    100176: Middle_Neck_01
+    100178: Middle_Neck_02
+    100180: RH
+    100182: Right_Head
+    100184: Right_Jawbone
+    100186: Right_Neck_01
+    100188: Right_Neck_02
+    100190: root
+    100192: Tail_01
+    100194: Tail_02
+    100196: Tail_03
+    100198: WIP
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Finger1
+    400018: Bip001 L Finger1Nub
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger2Nub
+    400024: Bip001 L Finger3
+    400026: Bip001 L Finger3Nub
+    400028: Bip001 L Foot
+    400030: Bip001 L Forearm
+    400032: Bip001 L Hand
+    400034: Bip001 L Thigh
+    400036: Bip001 L Toe0
+    400038: Bip001 L Toe0Nub
+    400040: Bip001 L UpperArm
+    400042: Bip001 LowerEyelid01
+    400044: Bip001 LowerEyelid02
+    400046: Bip001 LowerEyelid03
+    400048: Bip001 LowerEyelid09
+    400050: Bip001 LowerLid07
+    400052: Bip001 Lowerlid11
+    400054: Bip001 Neck
+    400056: Bip001 Neck1
+    400058: Bip001 Pelvis
+    400060: Bip001 R Calf
+    400062: Bip001 R Clavicle
+    400064: Bip001 R Finger0
+    400066: Bip001 R Finger0Nub
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger1Nub
+    400072: Bip001 R Finger2
+    400074: Bip001 R Finger2Nub
+    400076: Bip001 R Finger3
+    400078: Bip001 R Finger3Nub
+    400080: Bip001 R Foot
+    400082: Bip001 R Forearm
+    400084: Bip001 R Hand
+    400086: Bip001 R Thigh
+    400088: Bip001 R Toe0
+    400090: Bip001 R Toe0Nub
+    400092: Bip001 R UpperArm
+    400094: Bip001 Spine
+    400096: Bip001 Spine1
+    400098: Bip001 TopEyelid01
+    400100: Bip001 TopEyelid02
+    400102: Bip001 TopEyelid03
+    400104: Bip001 TopEyelid10
+    400106: Bip001 TopLid08
+    400108: Bip001 Toplid12
+    400110: Bip001 Xtra01Nub
+    400112: Bip001 Xtra02Nub
+    400114: Bip001 Xtra03Nub
+    400116: Bip001 Xtra03OppNub
+    400118: Bip001 Xtra04Nub
+    400120: Bip001 Xtra04OppNub
+    400122: Bip001 Xtra05Nub
+    400124: Bip001 Xtra05OppNub
+    400126: Bip001 Xtra06Nub
+    400128: Bip001 Xtra07Nub
+    400130: Bip001 Xtra07OppNub
+    400132: Bip001 Xtra08Nub
+    400134: Bip001 Xtra09Nub
+    400136: Bip001 Xtra09OppNub
+    400138: Bip001 Xtra10
+    400140: Bip001 Xtra10Nub
+    400142: Bip001 Xtra11Nub
+    400144: Bip001 Xtra12Nub
+    400146: Bip001 Xtra13Nub
+    400148: Bip001 Xtra14Nub
+    400150: Bip001 Xtra15
+    400152: Bip001 Xtra15Nub
+    400154: Eyes
+    400156: Flydra
+    400158: Flydra 1
+    400160: //RootNode
+    400162: Left_Head
+    400164: Left_Jawbone
+    400166: Left_Neck_01
+    400168: Left_Neck_02
+    400170: LH
+    400172: MH
+    400174: Middle_Head
+    400176: Middle_Neck_01
+    400178: Middle_Neck_02
+    400180: RH
+    400182: Right_Head
+    400184: Right_Jawbone
+    400186: Right_Neck_01
+    400188: Right_Neck_02
+    400190: root
+    400192: Tail_01
+    400194: Tail_02
+    400196: Tail_03
+    400198: WIP
+    2100000: Flydra_mat
+    4300000: Flydra
+    7400000: Flydra_attack_melee
+    9500000: //RootNode
+    13700000: Flydra 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flydra_mat
+    second: {fileID: 2100000, guid: b74e18156c6bdfa48be2447ae59bceb0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Flydra_attack_melee
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5509091
+        functionName: OnAction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 71de56dd529425748bb58c536c979ae4,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

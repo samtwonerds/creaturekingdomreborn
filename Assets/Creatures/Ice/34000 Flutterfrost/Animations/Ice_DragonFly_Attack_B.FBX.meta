@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 6e50276a86e7da84bb2b2735e8058f2f
+timeCreated: 1555082756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 Neck
+    100006: Bip001 Pelvis
+    100008: Bip001 Spine
+    100010: DI_body
+    100012: //RootNode
+    100014: Jawbone
+    100016: Left_Eye
+    100018: Left_Whisker_01
+    100020: Left_Whisker_02
+    100022: Left_Whisker_03
+    100024: Left_Wing_Lower_01
+    100026: Left_Wing_Lower_02
+    100028: Left_Wing_Upper_01
+    100030: Left_Wing_Upper_02
+    100032: Left_Wing_Upper_03
+    100034: Right_Eye
+    100036: Right_Whisker_01
+    100038: Right_Whisker_02
+    100040: Right_Whisker_03
+    100042: Right_Wing_Lower_01
+    100044: Right_Wing_Lower_02
+    100046: Right_Wing_Upper_01
+    100048: Right_Wing_Upper_02
+    100050: Right_Wing_Upper_03
+    100052: root
+    100054: Spine_01
+    100056: Spine_02
+    100058: Spine_03
+    100060: Spine_04
+    100062: Spine_05
+    100064: Spine_06
+    100066: Spine_07
+    100068: Spine_08
+    100070: Spine_09
+    100072: Spine_10
+    100074: Spine_11
+    100076: Spine_12
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 Neck
+    400006: Bip001 Pelvis
+    400008: Bip001 Spine
+    400010: DI_body
+    400012: //RootNode
+    400014: Jawbone
+    400016: Left_Eye
+    400018: Left_Whisker_01
+    400020: Left_Whisker_02
+    400022: Left_Whisker_03
+    400024: Left_Wing_Lower_01
+    400026: Left_Wing_Lower_02
+    400028: Left_Wing_Upper_01
+    400030: Left_Wing_Upper_02
+    400032: Left_Wing_Upper_03
+    400034: Right_Eye
+    400036: Right_Whisker_01
+    400038: Right_Whisker_02
+    400040: Right_Whisker_03
+    400042: Right_Wing_Lower_01
+    400044: Right_Wing_Lower_02
+    400046: Right_Wing_Upper_01
+    400048: Right_Wing_Upper_02
+    400050: Right_Wing_Upper_03
+    400052: root
+    400054: Spine_01
+    400056: Spine_02
+    400058: Spine_03
+    400060: Spine_04
+    400062: Spine_05
+    400064: Spine_06
+    400066: Spine_07
+    400068: Spine_08
+    400070: Spine_09
+    400072: Spine_10
+    400074: Spine_11
+    400076: Spine_12
+    2100000: 'Material #47'
+    4300000: DI_body
+    7400000: Ice_DragonFly_attack_projectile
+    9500000: //RootNode
+    13700000: DI_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: 69e2a777084ad60458f52a1b51623ce1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ice_DragonFly_attack_projectile
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.51272726
+        functionName: OnAction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0f200ec74817eb4469b86cff3b16f053,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

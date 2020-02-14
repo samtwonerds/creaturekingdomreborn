@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 3051d69f4d4c19446bdd0d942308995e
+timeCreated: 1520351119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip002
+    100002: Bip002 Head
+    100004: Bip002 L Calf
+    100006: Bip002 L Clavicle
+    100008: Bip002 L Finger0
+    100010: Bip002 L Foot
+    100012: Bip002 L Forearm
+    100014: Bip002 L Hand
+    100016: Bip002 L HorseLink
+    100018: Bip002 L Thigh
+    100020: Bip002 L Toe0
+    100022: Bip002 L UpperArm
+    100024: Bip002 Neck
+    100026: Bip002 Neck1
+    100028: Bip002 Neck2
+    100030: Bip002 Pelvis
+    100032: Bip002 R Calf
+    100034: Bip002 R Clavicle
+    100036: Bip002 R Finger0
+    100038: Bip002 R Foot
+    100040: Bip002 R Forearm
+    100042: Bip002 R Hand
+    100044: Bip002 R HorseLink
+    100046: Bip002 R Thigh
+    100048: Bip002 R Toe0
+    100050: Bip002 R UpperArm
+    100052: Bip002 Spine
+    100054: Bip002 Spine1
+    100056: Bip002 Tail
+    100058: Bip002 Tail1
+    100060: Bip002 Tail2
+    100062: //RootNode
+    100064: jawbone
+    100066: l_ear_1
+    100068: l_ear_2
+    100070: l_ear_3
+    100072: l_eye
+    100074: l_eyelid
+    100076: l_wing_1
+    100078: l_wing_2
+    100080: l_wing_3
+    100082: r_ear_1
+    100084: r_ear_2
+    100086: r_ear_3
+    100088: r_eye
+    100090: r_eyelid
+    100092: r_wing_1
+    100094: r_wing_2
+    100096: r_wing_3
+    100098: Bip002 Footsteps
+    100100: Body
+    100102: FIRE_DRAGON
+    100104: root
+    100106: _Fire_Dragon_Adult
+    100108: Jawbone
+    100110: l_ear_4
+    100112: L_Eyelid_lower
+    100114: L_Eyelid_upper
+    100116: Left_Eye
+    100118: Left_Wing_01
+    100120: Left_Wing_02
+    100122: Left_Wing_03
+    100124: r_ear_4
+    100126: R_Eyelid_lower
+    100128: R_Eyelid_upper
+    100130: Right_eye
+    100132: Right_Wing_01
+    100134: Right_Wing_02
+    100136: Right_Wing_03
+    400000: Bip002
+    400002: Bip002 Head
+    400004: Bip002 L Calf
+    400006: Bip002 L Clavicle
+    400008: Bip002 L Finger0
+    400010: Bip002 L Foot
+    400012: Bip002 L Forearm
+    400014: Bip002 L Hand
+    400016: Bip002 L HorseLink
+    400018: Bip002 L Thigh
+    400020: Bip002 L Toe0
+    400022: Bip002 L UpperArm
+    400024: Bip002 Neck
+    400026: Bip002 Neck1
+    400028: Bip002 Neck2
+    400030: Bip002 Pelvis
+    400032: Bip002 R Calf
+    400034: Bip002 R Clavicle
+    400036: Bip002 R Finger0
+    400038: Bip002 R Foot
+    400040: Bip002 R Forearm
+    400042: Bip002 R Hand
+    400044: Bip002 R HorseLink
+    400046: Bip002 R Thigh
+    400048: Bip002 R Toe0
+    400050: Bip002 R UpperArm
+    400052: Bip002 Spine
+    400054: Bip002 Spine1
+    400056: Bip002 Tail
+    400058: Bip002 Tail1
+    400060: Bip002 Tail2
+    400062: //RootNode
+    400064: jawbone
+    400066: l_ear_1
+    400068: l_ear_2
+    400070: l_ear_3
+    400072: l_eye
+    400074: l_eyelid
+    400076: l_wing_1
+    400078: l_wing_2
+    400080: l_wing_3
+    400082: r_ear_1
+    400084: r_ear_2
+    400086: r_ear_3
+    400088: r_eye
+    400090: r_eyelid
+    400092: r_wing_1
+    400094: r_wing_2
+    400096: r_wing_3
+    400098: Bip002 Footsteps
+    400100: Body
+    400102: FIRE_DRAGON
+    400104: root
+    400106: _Fire_Dragon_Adult
+    400108: Jawbone
+    400110: l_ear_4
+    400112: L_Eyelid_lower
+    400114: L_Eyelid_upper
+    400116: Left_Eye
+    400118: Left_Wing_01
+    400120: Left_Wing_02
+    400122: Left_Wing_03
+    400124: r_ear_4
+    400126: R_Eyelid_lower
+    400128: R_Eyelid_upper
+    400130: Right_eye
+    400132: Right_Wing_01
+    400134: Right_Wing_02
+    400136: Right_Wing_03
+    2100000: bodySG
+    4300000: Body
+    4300002: _Fire_Dragon_Adult
+    7400000: Fire_Dragon_hit
+    9500000: //RootNode
+    13700000: Body
+    13700002: _Fire_Dragon_Adult
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #8'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9'
+    second: {fileID: 2100000, guid: 9f6ff9d76927d6b4fbb3b0a05af94dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodySG
+    second: {fileID: 2100000, guid: e437f76e8b8a08947849baf45958687b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire_Dragon_hit
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 847858ca3d7d48b4d8825d6d19efcfc0,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 57774a85204f5a74a90cc0fbecd1c154
+timeCreated: 1562581498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AttackDepth_A
+    100002: AttackDepth_B
+    100004: AttackDepth_C
+    100006: Bip001
+    100008: Bip001 Footsteps
+    100010: Bip001 Head
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Finger01
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger2
+    100024: Bip001 L Finger21
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger4
+    100032: Bip001 L Finger41
+    100034: Bip001 L Forearm
+    100036: Bip001 L Hand
+    100038: Bip001 L UpperArm
+    100040: Bip001 Neck
+    100042: Bip001 Pelvis
+    100044: Bip001 R Clavicle
+    100046: Bip001 R Finger0
+    100048: Bip001 R Finger01
+    100050: Bip001 R Finger1
+    100052: Bip001 R Finger11
+    100054: Bip001 R Finger2
+    100056: Bip001 R Finger21
+    100058: Bip001 R Finger3
+    100060: Bip001 R Finger31
+    100062: Bip001 R Finger4
+    100064: Bip001 R Finger41
+    100066: Bip001 R Forearm
+    100068: Bip001 R Hand
+    100070: Bip001 R UpperArm
+    100072: Bip001 Spine
+    100074: Bip001 Spine1
+    100076: Body_upper
+    100078: Cyclone_01
+    100080: Cyclone_01a
+    100082: Cyclone_02
+    100084: Cyclone_02a
+    100086: Cyclone_03
+    100088: Cyclone_03a
+    100090: Cyclone_04
+    100092: Cyclone_04a
+    100094: Cyclone_05
+    100096: Cyclone_05a
+    100098: Cyclone_06
+    100100: Cyclone_06a
+    100102: Cyclone_07
+    100104: Cyclone_07a
+    100106: //RootNode
+    100108: Height_0
+    100110: Height_1
+    100112: Height_2
+    100114: Height_3
+    100116: Height_4
+    100118: Height_5
+    100120: Height_6
+    100122: Height_7
+    100124: Height_L_1
+    100126: Height_L_2
+    100128: Height_L_3
+    100130: Height_L_4
+    100132: Height_L_5
+    100134: Height_L_6
+    100136: Height_L_7
+    100138: Height_R_1
+    100140: Height_R_2
+    100142: Height_R_3
+    100144: Height_R_4
+    100146: Height_R_5
+    100148: Height_R_6
+    100150: Height_R_7
+    100152: Jawbone
+    100154: Left_eyelid_lower
+    100156: Left_eyelid_upper
+    100158: Lower_body_01
+    100160: Lower_body_02
+    100162: Lower_body_03
+    100164: Lower_body_04
+    100166: Lower_body_05
+    100168: Lower_body_06
+    100170: Lower_body_07
+    100172: Right_eyelid_lower
+    100174: Right_eyelid_upper
+    100176: root
+    100178: StormGenie
+    400000: AttackDepth_A
+    400002: AttackDepth_B
+    400004: AttackDepth_C
+    400006: Bip001
+    400008: Bip001 Footsteps
+    400010: Bip001 Head
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Finger01
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger2
+    400024: Bip001 L Finger21
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger4
+    400032: Bip001 L Finger41
+    400034: Bip001 L Forearm
+    400036: Bip001 L Hand
+    400038: Bip001 L UpperArm
+    400040: Bip001 Neck
+    400042: Bip001 Pelvis
+    400044: Bip001 R Clavicle
+    400046: Bip001 R Finger0
+    400048: Bip001 R Finger01
+    400050: Bip001 R Finger1
+    400052: Bip001 R Finger11
+    400054: Bip001 R Finger2
+    400056: Bip001 R Finger21
+    400058: Bip001 R Finger3
+    400060: Bip001 R Finger31
+    400062: Bip001 R Finger4
+    400064: Bip001 R Finger41
+    400066: Bip001 R Forearm
+    400068: Bip001 R Hand
+    400070: Bip001 R UpperArm
+    400072: Bip001 Spine
+    400074: Bip001 Spine1
+    400076: Body_upper
+    400078: Cyclone_01
+    400080: Cyclone_01a
+    400082: Cyclone_02
+    400084: Cyclone_02a
+    400086: Cyclone_03
+    400088: Cyclone_03a
+    400090: Cyclone_04
+    400092: Cyclone_04a
+    400094: Cyclone_05
+    400096: Cyclone_05a
+    400098: Cyclone_06
+    400100: Cyclone_06a
+    400102: Cyclone_07
+    400104: Cyclone_07a
+    400106: //RootNode
+    400108: Height_0
+    400110: Height_1
+    400112: Height_2
+    400114: Height_3
+    400116: Height_4
+    400118: Height_5
+    400120: Height_6
+    400122: Height_7
+    400124: Height_L_1
+    400126: Height_L_2
+    400128: Height_L_3
+    400130: Height_L_4
+    400132: Height_L_5
+    400134: Height_L_6
+    400136: Height_L_7
+    400138: Height_R_1
+    400140: Height_R_2
+    400142: Height_R_3
+    400144: Height_R_4
+    400146: Height_R_5
+    400148: Height_R_6
+    400150: Height_R_7
+    400152: Jawbone
+    400154: Left_eyelid_lower
+    400156: Left_eyelid_upper
+    400158: Lower_body_01
+    400160: Lower_body_02
+    400162: Lower_body_03
+    400164: Lower_body_04
+    400166: Lower_body_05
+    400168: Lower_body_06
+    400170: Lower_body_07
+    400172: Right_eyelid_lower
+    400174: Right_eyelid_upper
+    400176: root
+    400178: StormGenie
+    2100000: 'Material #25'
+    4300000: StormGenie
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: StormGenie
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 43d45091037bdf741b83dba44ddbeb21, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

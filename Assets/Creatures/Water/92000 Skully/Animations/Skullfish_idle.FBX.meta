@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 01855fc1a82bf9944a16f2d067c6ad17
+timeCreated: 1530187514
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 Neck
+    100008: Bip001 Pelvis
+    100010: Bip001 Ponytail1
+    100012: Bip001 Ponytail11
+    100014: Bip001 Ponytail12
+    100016: Bip001 Ponytail13
+    100018: Bip001 Ponytail14
+    100020: Bip001 Ponytail15
+    100022: Bip001 Spine
+    100024: Body
+    100026: Dummy001
+    100028: left_fin_01
+    100030: left_fin_02
+    100032: middle_fin_01
+    100034: middle_fin_02
+    100036: right_fin_01
+    100038: right_fin_02
+    100040: root
+    100042: //RootNode
+    100044: tail
+    100046: tail_fin_01
+    100048: tail_fin_02
+    100050: tail_fin_03
+    100052: tail_fin_04
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 Neck
+    400008: Bip001 Pelvis
+    400010: Bip001 Ponytail1
+    400012: Bip001 Ponytail11
+    400014: Bip001 Ponytail12
+    400016: Bip001 Ponytail13
+    400018: Bip001 Ponytail14
+    400020: Bip001 Ponytail15
+    400022: Bip001 Spine
+    400024: Body
+    400026: Dummy001
+    400028: left_fin_01
+    400030: left_fin_02
+    400032: middle_fin_01
+    400034: middle_fin_02
+    400036: right_fin_01
+    400038: right_fin_02
+    400040: root
+    400042: //RootNode
+    400044: tail
+    400046: tail_fin_01
+    400048: tail_fin_02
+    400050: tail_fin_03
+    400052: tail_fin_04
+    4300000: Body
+    7400000: Skullfish_idle
+    9500000: //RootNode
+    13700000: Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 9b14f76457d0cd14ba88f40f566db2e5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Skullfish_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 94dc1ad60f77cbc4caa2e72258b31cb9,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

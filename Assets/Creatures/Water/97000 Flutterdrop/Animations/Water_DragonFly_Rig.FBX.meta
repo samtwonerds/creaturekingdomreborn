@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 9220e2d8f7288d640ba215e085a81dfd
+timeCreated: 1555082756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _REF_PROJECTILE
+    100002: AttackDepth_A
+    100004: AttackDepth_B
+    100006: AttackDepth_C
+    100008: Bip001
+    100010: Bip001 Head
+    100012: Bip001 HeadNub
+    100014: Bip001 L Calf
+    100016: Bip001 L Clavicle
+    100018: Bip001 L Finger0
+    100020: Bip001 L Finger0Nub
+    100022: Bip001 L Foot
+    100024: Bip001 L Forearm
+    100026: Bip001 L Hand
+    100028: Bip001 L Thigh
+    100030: Bip001 L Toe0
+    100032: Bip001 L Toe01
+    100034: Bip001 L Toe02
+    100036: Bip001 L Toe0Nub
+    100038: Bip001 L UpperArm
+    100040: Bip001 Neck
+    100042: Bip001 Pelvis
+    100044: Bip001 R Calf
+    100046: Bip001 R Clavicle
+    100048: Bip001 R Finger0
+    100050: Bip001 R Finger0Nub
+    100052: Bip001 R Foot
+    100054: Bip001 R Forearm
+    100056: Bip001 R Hand
+    100058: Bip001 R Thigh
+    100060: Bip001 R Toe0
+    100062: Bip001 R Toe01
+    100064: Bip001 R Toe02
+    100066: Bip001 R Toe0Nub
+    100068: Bip001 R UpperArm
+    100070: Bip001 Spine
+    100072: Bip001 Xtra01Nub
+    100074: Bip001 Xtra02Nub
+    100076: Bip001 Xtra02OppNub
+    100078: Bip001 Xtra03Nub
+    100080: Bip001 Xtra03OppNub
+    100082: Bip001 Xtra04Nub
+    100084: Bip001 Xtra04OppNub
+    100086: Bip001 Xtra05Nub
+    100088: Bip001 Xtra06Nub
+    100090: Bip001 Xtra06OppNub
+    100092: DW_body
+    100094: Height_0
+    100096: Height_1
+    100098: Height_2
+    100100: Height_3
+    100102: Height_4
+    100104: Height_5
+    100106: Height_6
+    100108: Height_7
+    100110: Height_8
+    100112: Height_L_1
+    100114: Height_L_2
+    100116: Height_L_3
+    100118: Height_L_4
+    100120: Height_L_5
+    100122: Height_L_6
+    100124: Height_L_7
+    100126: Height_L_8
+    100128: Height_R_1
+    100130: Height_R_2
+    100132: Height_R_3
+    100134: Height_R_4
+    100136: Height_R_5
+    100138: Height_R_6
+    100140: Height_R_7
+    100142: Height_R_8
+    100144: Jawbone
+    100146: Left_Eye
+    100148: Left_Whisker_01
+    100150: Left_Whisker_02
+    100152: Left_Whisker_03
+    100154: Left_Wing_Lower_01
+    100156: Left_Wing_Lower_02
+    100158: Left_Wing_Upper_01
+    100160: Left_Wing_Upper_02
+    100162: Left_Wing_Upper_03
+    100164: Right_Eye
+    100166: Right_Whisker_01
+    100168: Right_Whisker_02
+    100170: Right_Whisker_03
+    100172: Right_Wing_Lower_01
+    100174: Right_Wing_Lower_02
+    100176: Right_Wing_Upper_01
+    100178: Right_Wing_Upper_02
+    100180: Right_Wing_Upper_03
+    100182: root
+    100184: Spine_01
+    100186: Spine_02
+    100188: Spine_03
+    100190: Spine_04
+    100192: Spine_05
+    100194: Spine_06
+    100196: Spine_07
+    100198: Spine_08
+    100200: Spine_09
+    100202: Spine_10
+    100204: Spine_11
+    100206: Spine_12
+    100208: //RootNode
+    400000: _REF_PROJECTILE
+    400002: AttackDepth_A
+    400004: AttackDepth_B
+    400006: AttackDepth_C
+    400008: Bip001
+    400010: Bip001 Head
+    400012: Bip001 HeadNub
+    400014: Bip001 L Calf
+    400016: Bip001 L Clavicle
+    400018: Bip001 L Finger0
+    400020: Bip001 L Finger0Nub
+    400022: Bip001 L Foot
+    400024: Bip001 L Forearm
+    400026: Bip001 L Hand
+    400028: Bip001 L Thigh
+    400030: Bip001 L Toe0
+    400032: Bip001 L Toe01
+    400034: Bip001 L Toe02
+    400036: Bip001 L Toe0Nub
+    400038: Bip001 L UpperArm
+    400040: Bip001 Neck
+    400042: Bip001 Pelvis
+    400044: Bip001 R Calf
+    400046: Bip001 R Clavicle
+    400048: Bip001 R Finger0
+    400050: Bip001 R Finger0Nub
+    400052: Bip001 R Foot
+    400054: Bip001 R Forearm
+    400056: Bip001 R Hand
+    400058: Bip001 R Thigh
+    400060: Bip001 R Toe0
+    400062: Bip001 R Toe01
+    400064: Bip001 R Toe02
+    400066: Bip001 R Toe0Nub
+    400068: Bip001 R UpperArm
+    400070: Bip001 Spine
+    400072: Bip001 Xtra01Nub
+    400074: Bip001 Xtra02Nub
+    400076: Bip001 Xtra02OppNub
+    400078: Bip001 Xtra03Nub
+    400080: Bip001 Xtra03OppNub
+    400082: Bip001 Xtra04Nub
+    400084: Bip001 Xtra04OppNub
+    400086: Bip001 Xtra05Nub
+    400088: Bip001 Xtra06Nub
+    400090: Bip001 Xtra06OppNub
+    400092: DW_body
+    400094: Height_0
+    400096: Height_1
+    400098: Height_2
+    400100: Height_3
+    400102: Height_4
+    400104: Height_5
+    400106: Height_6
+    400108: Height_7
+    400110: Height_8
+    400112: Height_L_1
+    400114: Height_L_2
+    400116: Height_L_3
+    400118: Height_L_4
+    400120: Height_L_5
+    400122: Height_L_6
+    400124: Height_L_7
+    400126: Height_L_8
+    400128: Height_R_1
+    400130: Height_R_2
+    400132: Height_R_3
+    400134: Height_R_4
+    400136: Height_R_5
+    400138: Height_R_6
+    400140: Height_R_7
+    400142: Height_R_8
+    400144: Jawbone
+    400146: Left_Eye
+    400148: Left_Whisker_01
+    400150: Left_Whisker_02
+    400152: Left_Whisker_03
+    400154: Left_Wing_Lower_01
+    400156: Left_Wing_Lower_02
+    400158: Left_Wing_Upper_01
+    400160: Left_Wing_Upper_02
+    400162: Left_Wing_Upper_03
+    400164: Right_Eye
+    400166: Right_Whisker_01
+    400168: Right_Whisker_02
+    400170: Right_Whisker_03
+    400172: Right_Wing_Lower_01
+    400174: Right_Wing_Lower_02
+    400176: Right_Wing_Upper_01
+    400178: Right_Wing_Upper_02
+    400180: Right_Wing_Upper_03
+    400182: root
+    400184: Spine_01
+    400186: Spine_02
+    400188: Spine_03
+    400190: Spine_04
+    400192: Spine_05
+    400194: Spine_06
+    400196: Spine_07
+    400198: Spine_08
+    400200: Spine_09
+    400202: Spine_10
+    400204: Spine_11
+    400206: Spine_12
+    400208: //RootNode
+    2100000: 'Material #48'
+    4300000: DW_body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DW_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 24bb42d5de6d0644890ff474891cb26c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

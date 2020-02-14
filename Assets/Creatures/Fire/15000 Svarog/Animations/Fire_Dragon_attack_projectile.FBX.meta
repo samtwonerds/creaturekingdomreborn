@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 05bb61cc0514b0a4bbe3b85d1858c85f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Fire_Dragon_Adult
+    100002: Bip002
+    100004: Bip002 Footsteps
+    100006: Bip002 Head
+    100008: Bip002 L Calf
+    100010: Bip002 L Clavicle
+    100012: Bip002 L Finger0
+    100014: Bip002 L Foot
+    100016: Bip002 L Forearm
+    100018: Bip002 L Hand
+    100020: Bip002 L Thigh
+    100022: Bip002 L Toe0
+    100024: Bip002 L UpperArm
+    100026: Bip002 Neck
+    100028: Bip002 Neck1
+    100030: Bip002 Neck2
+    100032: Bip002 Pelvis
+    100034: Bip002 R Calf
+    100036: Bip002 R Clavicle
+    100038: Bip002 R Finger0
+    100040: Bip002 R Foot
+    100042: Bip002 R Forearm
+    100044: Bip002 R Hand
+    100046: Bip002 R Thigh
+    100048: Bip002 R Toe0
+    100050: Bip002 R UpperArm
+    100052: Bip002 Spine
+    100054: Bip002 Spine1
+    100056: Bip002 Tail
+    100058: Bip002 Tail1
+    100060: Bip002 Tail2
+    100062: //RootNode
+    100064: Jawbone
+    100066: l_ear_1
+    100068: l_ear_2
+    100070: l_ear_3
+    100072: l_ear_4
+    100074: L_Eyelid_lower
+    100076: L_Eyelid_upper
+    100078: Left_Eye
+    100080: Left_Wing_01
+    100082: Left_Wing_02
+    100084: Left_Wing_03
+    100086: r_ear_1
+    100088: r_ear_2
+    100090: r_ear_3
+    100092: r_ear_4
+    100094: R_Eyelid_lower
+    100096: R_Eyelid_upper
+    100098: Right_eye
+    100100: Right_Wing_01
+    100102: Right_Wing_02
+    100104: Right_Wing_03
+    100106: root
+    400000: _Fire_Dragon_Adult
+    400002: Bip002
+    400004: Bip002 Footsteps
+    400006: Bip002 Head
+    400008: Bip002 L Calf
+    400010: Bip002 L Clavicle
+    400012: Bip002 L Finger0
+    400014: Bip002 L Foot
+    400016: Bip002 L Forearm
+    400018: Bip002 L Hand
+    400020: Bip002 L Thigh
+    400022: Bip002 L Toe0
+    400024: Bip002 L UpperArm
+    400026: Bip002 Neck
+    400028: Bip002 Neck1
+    400030: Bip002 Neck2
+    400032: Bip002 Pelvis
+    400034: Bip002 R Calf
+    400036: Bip002 R Clavicle
+    400038: Bip002 R Finger0
+    400040: Bip002 R Foot
+    400042: Bip002 R Forearm
+    400044: Bip002 R Hand
+    400046: Bip002 R Thigh
+    400048: Bip002 R Toe0
+    400050: Bip002 R UpperArm
+    400052: Bip002 Spine
+    400054: Bip002 Spine1
+    400056: Bip002 Tail
+    400058: Bip002 Tail1
+    400060: Bip002 Tail2
+    400062: //RootNode
+    400064: Jawbone
+    400066: l_ear_1
+    400068: l_ear_2
+    400070: l_ear_3
+    400072: l_ear_4
+    400074: L_Eyelid_lower
+    400076: L_Eyelid_upper
+    400078: Left_Eye
+    400080: Left_Wing_01
+    400082: Left_Wing_02
+    400084: Left_Wing_03
+    400086: r_ear_1
+    400088: r_ear_2
+    400090: r_ear_3
+    400092: r_ear_4
+    400094: R_Eyelid_lower
+    400096: R_Eyelid_upper
+    400098: Right_eye
+    400100: Right_Wing_01
+    400102: Right_Wing_02
+    400104: Right_Wing_03
+    400106: root
+    2100000: bodySG
+    4300000: _Fire_Dragon_Adult
+    7400000: Fire_Dragon_attack_projectile
+    9500000: //RootNode
+    13700000: _Fire_Dragon_Adult
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodySG
+    second: {fileID: 2100000, guid: e437f76e8b8a08947849baf45958687b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire_Dragon_attack_projectile
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.20616572
+        functionName: OnAction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 847858ca3d7d48b4d8825d6d19efcfc0,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

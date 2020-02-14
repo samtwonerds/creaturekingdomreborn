@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 2e483994e58d9f948818e6d7b7af433c
+timeCreated: 1549362248
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 Neck
+    100008: Bip001 Pelvis
+    100010: Bip001 Spine
+    100012: //RootNode
+    100014: body
+    100016: Headfin_01
+    100018: Headfin_02
+    100020: Headfin_03
+    100022: Jawbone
+    100024: Left_Eye
+    100026: Left_Fin_01
+    100028: Left_Fin_02
+    100030: Left_Fin_03
+    100032: Right_Eye
+    100034: Right_Fin_01
+    100036: Right_Fin_02
+    100038: Right_Fin_03
+    100040: root
+    100042: Tail_01
+    100044: Tail_02
+    100046: Tail_03
+    100048: Tail_04
+    100050: Tail_Control
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 Neck
+    400008: Bip001 Pelvis
+    400010: Bip001 Spine
+    400012: //RootNode
+    400014: body
+    400016: Headfin_01
+    400018: Headfin_02
+    400020: Headfin_03
+    400022: Jawbone
+    400024: Left_Eye
+    400026: Left_Fin_01
+    400028: Left_Fin_02
+    400030: Left_Fin_03
+    400032: Right_Eye
+    400034: Right_Fin_01
+    400036: Right_Fin_02
+    400038: Right_Fin_03
+    400040: root
+    400042: Tail_01
+    400044: Tail_02
+    400046: Tail_03
+    400048: Tail_04
+    400050: Tail_Control
+    2100000: Piranha_mat
+    4300000: body
+    7400000: Blue_Piranha_battle_idle
+    9500000: //RootNode
+    13700000: body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piranha_mat
+    second: {fileID: 2100000, guid: daedd5f9bc1de7a4b9af21b3e8ab32d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Blue_Piranha_battle_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e722faf51d33081499b4080adf78da74,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

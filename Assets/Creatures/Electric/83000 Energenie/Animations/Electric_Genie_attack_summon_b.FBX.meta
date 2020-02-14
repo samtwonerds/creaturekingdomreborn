@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 45d36bd43b450754688f0ed044a5540a
+timeCreated: 1562572322
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger1
+    100014: Bip001 L Finger11
+    100016: Bip001 L Finger2
+    100018: Bip001 L Finger21
+    100020: Bip001 L Finger3
+    100022: Bip001 L Finger31
+    100024: Bip001 L Finger4
+    100026: Bip001 L Finger41
+    100028: Bip001 L Forearm
+    100030: Bip001 L Hand
+    100032: Bip001 L UpperArm
+    100034: Bip001 Neck
+    100036: Bip001 Pelvis
+    100038: Bip001 R Clavicle
+    100040: Bip001 R Finger0
+    100042: Bip001 R Finger01
+    100044: Bip001 R Finger1
+    100046: Bip001 R Finger11
+    100048: Bip001 R Finger2
+    100050: Bip001 R Finger21
+    100052: Bip001 R Finger3
+    100054: Bip001 R Finger31
+    100056: Bip001 R Finger4
+    100058: Bip001 R Finger41
+    100060: Bip001 R Forearm
+    100062: Bip001 R Hand
+    100064: Bip001 R UpperArm
+    100066: Bip001 Spine
+    100068: Bip001 Spine1
+    100070: Body_upper
+    100072: Cyclone_01
+    100074: Cyclone_01a
+    100076: Cyclone_02
+    100078: Cyclone_02a
+    100080: Cyclone_03
+    100082: Cyclone_03a
+    100084: Cyclone_04
+    100086: Cyclone_04a
+    100088: Cyclone_05
+    100090: Cyclone_05a
+    100092: Cyclone_06
+    100094: Cyclone_06a
+    100096: Cyclone_07
+    100098: Cyclone_07a
+    100100: //RootNode
+    100102: Jawbone
+    100104: Left_eyelid_lower
+    100106: Left_eyelid_upper
+    100108: Lower_body_01
+    100110: Lower_body_02
+    100112: Lower_body_03
+    100114: Lower_body_04
+    100116: Lower_body_05
+    100118: Lower_body_06
+    100120: Lower_body_07
+    100122: Right_eyelid_lower
+    100124: Right_eyelid_upper
+    100126: root
+    100128: StormGenie
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger1
+    400014: Bip001 L Finger11
+    400016: Bip001 L Finger2
+    400018: Bip001 L Finger21
+    400020: Bip001 L Finger3
+    400022: Bip001 L Finger31
+    400024: Bip001 L Finger4
+    400026: Bip001 L Finger41
+    400028: Bip001 L Forearm
+    400030: Bip001 L Hand
+    400032: Bip001 L UpperArm
+    400034: Bip001 Neck
+    400036: Bip001 Pelvis
+    400038: Bip001 R Clavicle
+    400040: Bip001 R Finger0
+    400042: Bip001 R Finger01
+    400044: Bip001 R Finger1
+    400046: Bip001 R Finger11
+    400048: Bip001 R Finger2
+    400050: Bip001 R Finger21
+    400052: Bip001 R Finger3
+    400054: Bip001 R Finger31
+    400056: Bip001 R Finger4
+    400058: Bip001 R Finger41
+    400060: Bip001 R Forearm
+    400062: Bip001 R Hand
+    400064: Bip001 R UpperArm
+    400066: Bip001 Spine
+    400068: Bip001 Spine1
+    400070: Body_upper
+    400072: Cyclone_01
+    400074: Cyclone_01a
+    400076: Cyclone_02
+    400078: Cyclone_02a
+    400080: Cyclone_03
+    400082: Cyclone_03a
+    400084: Cyclone_04
+    400086: Cyclone_04a
+    400088: Cyclone_05
+    400090: Cyclone_05a
+    400092: Cyclone_06
+    400094: Cyclone_06a
+    400096: Cyclone_07
+    400098: Cyclone_07a
+    400100: //RootNode
+    400102: Jawbone
+    400104: Left_eyelid_lower
+    400106: Left_eyelid_upper
+    400108: Lower_body_01
+    400110: Lower_body_02
+    400112: Lower_body_03
+    400114: Lower_body_04
+    400116: Lower_body_05
+    400118: Lower_body_06
+    400120: Lower_body_07
+    400122: Right_eyelid_lower
+    400124: Right_eyelid_upper
+    400126: root
+    400128: StormGenie
+    2100000: 'Material #26'
+    4300000: StormGenie
+    7400000: Electric_Genie_attack_summon_b
+    9500000: //RootNode
+    13700000: StormGenie
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 43d45091037bdf741b83dba44ddbeb21, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Electric_Genie_attack_summon_b
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.46741572
+        functionName: OnAction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 57774a85204f5a74a90cc0fbecd1c154,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 71e51e902d495194d8df7c375e5acc44
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body_lower
+    100002: body_mid
+    100004: eye_l
+    100006: eye_r
+    100008: Hair_00
+    100010: Hair_01
+    100012: Hair_02
+    100014: Hair_03
+    100016: Hair_04
+    100018: Hair_05
+    100020: Hair_06
+    100022: Hair_07
+    100024: Hair_08
+    100026: Hair_09
+    100028: Hair_10
+    100030: Hair_11
+    100032: Hair_12
+    100034: Hair_13
+    100036: Hair_14
+    100038: Hair_15
+    100040: Hair_16
+    100042: Hair_17
+    100044: Hair_18
+    100046: Head
+    100048: head
+    100050: Head Ctrl
+    100052: L Eye
+    100054: L Eye LookAt
+    100056: L Finger 1
+    100058: L Finger 2
+    100060: L Finger 3
+    100062: L Foot Helper
+    100064: L Hand
+    100066: L Leg Bone
+    100068: L Thumb
+    100070: L Toe 1
+    100072: L Toe 2
+    100074: L Toe 3
+    100076: leg_l
+    100078: leg_r
+    100080: Pelvis
+    100082: R Eye
+    100084: R Eye LookAt
+    100086: R Finger 1
+    100088: R Finger 2
+    100090: R Finger 3
+    100092: R Foot Helper
+    100094: R Hand
+    100096: R Leg Bone
+    100098: R Thumb
+    100100: R Toe 1
+    100102: R Toe 2
+    100104: R Toe 3
+    100106: root
+    100108: Spine
+    100110: Totem
+    100112: //RootNode
+    100114: Bip001
+    400000: body_lower
+    400002: body_mid
+    400004: eye_l
+    400006: eye_r
+    400008: Hair_00
+    400010: Hair_01
+    400012: Hair_02
+    400014: Hair_03
+    400016: Hair_04
+    400018: Hair_05
+    400020: Hair_06
+    400022: Hair_07
+    400024: Hair_08
+    400026: Hair_09
+    400028: Hair_10
+    400030: Hair_11
+    400032: Hair_12
+    400034: Hair_13
+    400036: Hair_14
+    400038: Hair_15
+    400040: Hair_16
+    400042: Hair_17
+    400044: Hair_18
+    400046: Head
+    400048: head
+    400050: Head Ctrl
+    400052: L Eye
+    400054: L Eye LookAt
+    400056: L Finger 1
+    400058: L Finger 2
+    400060: L Finger 3
+    400062: L Foot Helper
+    400064: L Hand
+    400066: L Leg Bone
+    400068: L Thumb
+    400070: L Toe 1
+    400072: L Toe 2
+    400074: L Toe 3
+    400076: leg_l
+    400078: leg_r
+    400080: Pelvis
+    400082: R Eye
+    400084: R Eye LookAt
+    400086: R Finger 1
+    400088: R Finger 2
+    400090: R Finger 3
+    400092: R Foot Helper
+    400094: R Hand
+    400096: R Leg Bone
+    400098: R Thumb
+    400100: R Toe 1
+    400102: R Toe 2
+    400104: R Toe 3
+    400106: root
+    400108: Spine
+    400110: Totem
+    400112: //RootNode
+    400114: Bip001
+    2100000: M_totem
+    4300000: leg_l
+    4300002: leg_r
+    4300004: body_lower
+    4300006: body_mid
+    4300008: head
+    4300010: eye_r
+    4300012: eye_l
+    7400000: Totem_BattleIdle
+    9500000: //RootNode
+    13700000: body_lower
+    13700002: body_mid
+    13700004: eye_l
+    13700006: eye_r
+    13700008: head
+    13700010: leg_l
+    13700012: leg_r
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_totem
+    second: {fileID: 2100000, guid: f7b83936475be56459164e5725aa647f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Totem_BattleIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 874d9e3cdad8b5a4f9054c8e942595bf,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

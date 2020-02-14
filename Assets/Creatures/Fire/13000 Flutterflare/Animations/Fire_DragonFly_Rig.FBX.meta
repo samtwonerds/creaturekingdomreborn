@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 96aa6770b4926c140afc494e83473fa6
+timeCreated: 1555082756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _REF_PROJECTILE
+    100002: AttackDepth_A
+    100004: AttackDepth_B
+    100006: AttackDepth_C
+    100008: Bip001
+    100010: Bip001 Footsteps
+    100012: Bip001 Head
+    100014: Bip001 HeadNub
+    100016: Bip001 L Calf
+    100018: Bip001 L Clavicle
+    100020: Bip001 L Finger0
+    100022: Bip001 L Finger0Nub
+    100024: Bip001 L Foot
+    100026: Bip001 L Forearm
+    100028: Bip001 L Hand
+    100030: Bip001 L Thigh
+    100032: Bip001 L Toe0
+    100034: Bip001 L Toe01
+    100036: Bip001 L Toe02
+    100038: Bip001 L Toe0Nub
+    100040: Bip001 L UpperArm
+    100042: Bip001 Neck
+    100044: Bip001 Pelvis
+    100046: Bip001 R Calf
+    100048: Bip001 R Clavicle
+    100050: Bip001 R Finger0
+    100052: Bip001 R Finger0Nub
+    100054: Bip001 R Foot
+    100056: Bip001 R Forearm
+    100058: Bip001 R Hand
+    100060: Bip001 R Thigh
+    100062: Bip001 R Toe0
+    100064: Bip001 R Toe01
+    100066: Bip001 R Toe02
+    100068: Bip001 R Toe0Nub
+    100070: Bip001 R UpperArm
+    100072: Bip001 Spine
+    100074: Bip001 Xtra01Nub
+    100076: Bip001 Xtra02Nub
+    100078: Bip001 Xtra02OppNub
+    100080: Bip001 Xtra03Nub
+    100082: Bip001 Xtra03OppNub
+    100084: Bip001 Xtra04Nub
+    100086: Bip001 Xtra04OppNub
+    100088: Bip001 Xtra05Nub
+    100090: Bip001 Xtra06Nub
+    100092: Bip001 Xtra06OppNub
+    100094: DF_body
+    100096: //RootNode
+    100098: Height_0
+    100100: Height_1
+    100102: Height_2
+    100104: Height_3
+    100106: Height_4
+    100108: Height_5
+    100110: Height_6
+    100112: Height_7
+    100114: Height_8
+    100116: Height_L_1
+    100118: Height_L_2
+    100120: Height_L_3
+    100122: Height_L_4
+    100124: Height_L_5
+    100126: Height_L_6
+    100128: Height_L_7
+    100130: Height_L_8
+    100132: Height_R_1
+    100134: Height_R_2
+    100136: Height_R_3
+    100138: Height_R_4
+    100140: Height_R_5
+    100142: Height_R_6
+    100144: Height_R_7
+    100146: Height_R_8
+    100148: Jawbone
+    100150: Left_Eye
+    100152: Left_Whisker_01
+    100154: Left_Whisker_02
+    100156: Left_Whisker_03
+    100158: Left_Wing_Lower_01
+    100160: Left_Wing_Lower_02
+    100162: Left_Wing_Upper_01
+    100164: Left_Wing_Upper_02
+    100166: Left_Wing_Upper_03
+    100168: Right_Eye
+    100170: Right_Whisker_01
+    100172: Right_Whisker_02
+    100174: Right_Whisker_03
+    100176: Right_Wing_Lower_01
+    100178: Right_Wing_Lower_02
+    100180: Right_Wing_Upper_01
+    100182: Right_Wing_Upper_02
+    100184: Right_Wing_Upper_03
+    100186: root
+    100188: Spine_01
+    100190: Spine_02
+    100192: Spine_03
+    100194: Spine_04
+    100196: Spine_05
+    100198: Spine_06
+    100200: Spine_07
+    100202: Spine_08
+    100204: Spine_09
+    100206: Spine_10
+    100208: Spine_11
+    100210: Spine_12
+    400000: _REF_PROJECTILE
+    400002: AttackDepth_A
+    400004: AttackDepth_B
+    400006: AttackDepth_C
+    400008: Bip001
+    400010: Bip001 Footsteps
+    400012: Bip001 Head
+    400014: Bip001 HeadNub
+    400016: Bip001 L Calf
+    400018: Bip001 L Clavicle
+    400020: Bip001 L Finger0
+    400022: Bip001 L Finger0Nub
+    400024: Bip001 L Foot
+    400026: Bip001 L Forearm
+    400028: Bip001 L Hand
+    400030: Bip001 L Thigh
+    400032: Bip001 L Toe0
+    400034: Bip001 L Toe01
+    400036: Bip001 L Toe02
+    400038: Bip001 L Toe0Nub
+    400040: Bip001 L UpperArm
+    400042: Bip001 Neck
+    400044: Bip001 Pelvis
+    400046: Bip001 R Calf
+    400048: Bip001 R Clavicle
+    400050: Bip001 R Finger0
+    400052: Bip001 R Finger0Nub
+    400054: Bip001 R Foot
+    400056: Bip001 R Forearm
+    400058: Bip001 R Hand
+    400060: Bip001 R Thigh
+    400062: Bip001 R Toe0
+    400064: Bip001 R Toe01
+    400066: Bip001 R Toe02
+    400068: Bip001 R Toe0Nub
+    400070: Bip001 R UpperArm
+    400072: Bip001 Spine
+    400074: Bip001 Xtra01Nub
+    400076: Bip001 Xtra02Nub
+    400078: Bip001 Xtra02OppNub
+    400080: Bip001 Xtra03Nub
+    400082: Bip001 Xtra03OppNub
+    400084: Bip001 Xtra04Nub
+    400086: Bip001 Xtra04OppNub
+    400088: Bip001 Xtra05Nub
+    400090: Bip001 Xtra06Nub
+    400092: Bip001 Xtra06OppNub
+    400094: DF_body
+    400096: //RootNode
+    400098: Height_0
+    400100: Height_1
+    400102: Height_2
+    400104: Height_3
+    400106: Height_4
+    400108: Height_5
+    400110: Height_6
+    400112: Height_7
+    400114: Height_8
+    400116: Height_L_1
+    400118: Height_L_2
+    400120: Height_L_3
+    400122: Height_L_4
+    400124: Height_L_5
+    400126: Height_L_6
+    400128: Height_L_7
+    400130: Height_L_8
+    400132: Height_R_1
+    400134: Height_R_2
+    400136: Height_R_3
+    400138: Height_R_4
+    400140: Height_R_5
+    400142: Height_R_6
+    400144: Height_R_7
+    400146: Height_R_8
+    400148: Jawbone
+    400150: Left_Eye
+    400152: Left_Whisker_01
+    400154: Left_Whisker_02
+    400156: Left_Whisker_03
+    400158: Left_Wing_Lower_01
+    400160: Left_Wing_Lower_02
+    400162: Left_Wing_Upper_01
+    400164: Left_Wing_Upper_02
+    400166: Left_Wing_Upper_03
+    400168: Right_Eye
+    400170: Right_Whisker_01
+    400172: Right_Whisker_02
+    400174: Right_Whisker_03
+    400176: Right_Wing_Lower_01
+    400178: Right_Wing_Lower_02
+    400180: Right_Wing_Upper_01
+    400182: Right_Wing_Upper_02
+    400184: Right_Wing_Upper_03
+    400186: root
+    400188: Spine_01
+    400190: Spine_02
+    400192: Spine_03
+    400194: Spine_04
+    400196: Spine_05
+    400198: Spine_06
+    400200: Spine_07
+    400202: Spine_08
+    400204: Spine_09
+    400206: Spine_10
+    400208: Spine_11
+    400210: Spine_12
+    2100000: 'Material #49'
+    4300000: DF_body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DF_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: 56c5cd2b45b9ad64ea92f4984a3318fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

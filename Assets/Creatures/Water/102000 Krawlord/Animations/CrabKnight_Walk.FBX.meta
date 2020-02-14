@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: d2b66ae223a0bed4abcfd3592d981bb6
+timeCreated: 1556798454
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger0Nub
+    100012: Bip001 L Forearm
+    100014: Bip001 L Hand
+    100016: Bip001 L HorseLink
+    100018: Bip001 L Thigh
+    100020: Bip001 L UpperArm
+    100022: Bip001 Neck
+    100024: Bip001 Pelvis
+    100026: Bip001 R Calf
+    100028: Bip001 R Clavicle
+    100030: Bip001 R Finger0
+    100032: Bip001 R Finger0Nub
+    100034: Bip001 R Forearm
+    100036: Bip001 R Hand
+    100038: Bip001 R HorseLink
+    100040: Bip001 R Thigh
+    100042: Bip001 R UpperArm
+    100044: Bip001 Spine
+    100046: Bip001 Spine1
+    100048: Bip001 Xtra01
+    100050: Bip001 Xtra01Nub
+    100052: Bip001 Xtra02
+    100054: Bip001 Xtra02Nub
+    100056: Bip001 Xtra03
+    100058: Bip001 Xtra03Opp
+    100060: Bip001 Xtra04
+    100062: Bip001 Xtra04Opp
+    100064: Bip001 Xtra05
+    100066: Bip001 Xtra05Opp
+    100068: Bip001 Xtra06
+    100070: Bip001 Xtra06Opp
+    100072: Bip001 Xtra07
+    100074: Bip001 Xtra07Opp
+    100076: Bip001 Xtra08
+    100078: Bip001 Xtra08Opp
+    100080: Bip001 Xtra09
+    100082: Bip001 Xtra09Opp
+    100084: Bip001 Xtra10
+    100086: Bip001 Xtra10Opp
+    100088: Bip001 Xtra11
+    100090: Bip001 Xtra11Opp
+    100092: Bip001 Xtra12
+    100094: Bip001 Xtra12Opp
+    100096: Bip001 Xtra13
+    100098: Bip001 Xtra13Opp
+    100100: Bip001 Xtra14
+    100102: Bip001 Xtra14Opp
+    100104: Bip001 Xtra15
+    100106: Bip001 Xtra15Opp
+    100108: Bip001 Xtra16
+    100110: Bip001 Xtra16Opp
+    100112: Bip001 Xtra17
+    100114: Bip001 Xtra17Opp
+    100116: Bip001 Xtra18
+    100118: Bip001 Xtra19
+    100120: Bip001 Xtra20
+    100122: Bip001 Xtra21
+    100124: Bip001 Xtra21Opp
+    100126: Bip001 Xtra22
+    100128: Bip001 Xtra22Opp
+    100130: Bip001 Xtra23
+    100132: Bip001 Xtra23Opp
+    100134: Body Control
+    100136: //RootNode
+    100138: KnightCrab
+    100140: KnightCrab 1
+    100142: root
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger0Nub
+    400012: Bip001 L Forearm
+    400014: Bip001 L Hand
+    400016: Bip001 L HorseLink
+    400018: Bip001 L Thigh
+    400020: Bip001 L UpperArm
+    400022: Bip001 Neck
+    400024: Bip001 Pelvis
+    400026: Bip001 R Calf
+    400028: Bip001 R Clavicle
+    400030: Bip001 R Finger0
+    400032: Bip001 R Finger0Nub
+    400034: Bip001 R Forearm
+    400036: Bip001 R Hand
+    400038: Bip001 R HorseLink
+    400040: Bip001 R Thigh
+    400042: Bip001 R UpperArm
+    400044: Bip001 Spine
+    400046: Bip001 Spine1
+    400048: Bip001 Xtra01
+    400050: Bip001 Xtra01Nub
+    400052: Bip001 Xtra02
+    400054: Bip001 Xtra02Nub
+    400056: Bip001 Xtra03
+    400058: Bip001 Xtra03Opp
+    400060: Bip001 Xtra04
+    400062: Bip001 Xtra04Opp
+    400064: Bip001 Xtra05
+    400066: Bip001 Xtra05Opp
+    400068: Bip001 Xtra06
+    400070: Bip001 Xtra06Opp
+    400072: Bip001 Xtra07
+    400074: Bip001 Xtra07Opp
+    400076: Bip001 Xtra08
+    400078: Bip001 Xtra08Opp
+    400080: Bip001 Xtra09
+    400082: Bip001 Xtra09Opp
+    400084: Bip001 Xtra10
+    400086: Bip001 Xtra10Opp
+    400088: Bip001 Xtra11
+    400090: Bip001 Xtra11Opp
+    400092: Bip001 Xtra12
+    400094: Bip001 Xtra12Opp
+    400096: Bip001 Xtra13
+    400098: Bip001 Xtra13Opp
+    400100: Bip001 Xtra14
+    400102: Bip001 Xtra14Opp
+    400104: Bip001 Xtra15
+    400106: Bip001 Xtra15Opp
+    400108: Bip001 Xtra16
+    400110: Bip001 Xtra16Opp
+    400112: Bip001 Xtra17
+    400114: Bip001 Xtra17Opp
+    400116: Bip001 Xtra18
+    400118: Bip001 Xtra19
+    400120: Bip001 Xtra20
+    400122: Bip001 Xtra21
+    400124: Bip001 Xtra21Opp
+    400126: Bip001 Xtra22
+    400128: Bip001 Xtra22Opp
+    400130: Bip001 Xtra23
+    400132: Bip001 Xtra23Opp
+    400134: Body Control
+    400136: //RootNode
+    400138: KnightCrab
+    400140: KnightCrab 1
+    400142: root
+    2100000: 'Material #25'
+    4300000: KnightCrab
+    7400000: CrabKnight_Walk
+    9500000: //RootNode
+    13700000: KnightCrab 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: d8908302093aa1d4aacfd2bacdf391b9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CrabKnight_Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: aaac034d127973c4591c2fd9902563de,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

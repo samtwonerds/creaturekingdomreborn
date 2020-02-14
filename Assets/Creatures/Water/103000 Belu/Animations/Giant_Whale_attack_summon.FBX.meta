@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: cdad56c8065701e45b1c5e97b347c520
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 Neck
+    100006: Bip001 Pelvis
+    100008: Bip001 Spine
+    100010: Bowl
+    100012: //RootNode
+    100014: Jawbone
+    100016: Left_Eye
+    100018: Left_Eyelid_Lower
+    100020: Left_Eyelid_Upper
+    100022: Left_Fin_01
+    100024: Left_Fin_02
+    100026: Right_Eye
+    100028: Right_Eyelid_Lower
+    100030: Right_Eyelid_Upper
+    100032: Right_Fin_01
+    100034: Right_Fin_02
+    100036: root
+    100038: Tail_01
+    100040: Tail_02
+    100042: Tail_03
+    100044: Tail_04
+    100046: Tail_left_01
+    100048: Tail_left_02
+    100050: Tail_right_01
+    100052: Tail_right_02
+    100054: Water
+    100056: Whale
+    100058: WhaleGlass
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 Neck
+    400006: Bip001 Pelvis
+    400008: Bip001 Spine
+    400010: Bowl
+    400012: //RootNode
+    400014: Jawbone
+    400016: Left_Eye
+    400018: Left_Eyelid_Lower
+    400020: Left_Eyelid_Upper
+    400022: Left_Fin_01
+    400024: Left_Fin_02
+    400026: Right_Eye
+    400028: Right_Eyelid_Lower
+    400030: Right_Eyelid_Upper
+    400032: Right_Fin_01
+    400034: Right_Fin_02
+    400036: root
+    400038: Tail_01
+    400040: Tail_02
+    400042: Tail_03
+    400044: Tail_04
+    400046: Tail_left_01
+    400048: Tail_left_02
+    400050: Tail_right_01
+    400052: Tail_right_02
+    400054: Water
+    400056: Whale
+    400058: WhaleGlass
+    2100000: 'Material #26'
+    2100002: 'Material #25'
+    2300000: WhaleGlass
+    3300000: WhaleGlass
+    4300000: WhaleGlass
+    4300002: Whale
+    7400000: Giant_Whale_attack_summon
+    9500000: //RootNode
+    13700000: Whale
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 5e84344f09f33f34884b43e4f104eeff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 5e84344f09f33f34884b43e4f104eeff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Giant_Whale_attack_summon
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.28244275
+        functionName: OnAction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0f43817212804e74da997a1a3a435d5c,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

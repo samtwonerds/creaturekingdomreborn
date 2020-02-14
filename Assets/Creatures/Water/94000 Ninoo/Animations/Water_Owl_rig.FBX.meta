@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 9a7390b925ecc564491f6b2c1680e424
+timeCreated: 1537271150
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _REF_PROJECTILE
+    100002: AttackDepth_A
+    100004: AttackDepth_B
+    100006: Bip001
+    100008: Bip001 Head
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Foot
+    100016: Bip001 L Thigh
+    100018: Bip001 L Toe0
+    100020: Bip001 L Toe1
+    100022: Bip001 L Toe2
+    100024: Bip001 Neck
+    100026: Bip001 Pelvis
+    100028: Bip001 R Calf
+    100030: Bip001 R Clavicle
+    100032: Bip001 R Foot
+    100034: Bip001 R Thigh
+    100036: Bip001 R Toe0
+    100038: Bip001 R Toe1
+    100040: Bip001 R Toe2
+    100042: Bip001 Spine
+    100044: Bip001 Spine1
+    100046: Height_0
+    100048: Height_1
+    100050: Height_2
+    100052: Height_3
+    100054: Height_4
+    100056: Height_L_1
+    100058: Height_L_2
+    100060: Height_L_3
+    100062: Height_L_4
+    100064: Height_R_1
+    100066: Height_R_2
+    100068: Height_R_3
+    100070: Height_R_4
+    100072: Left_Eye
+    100074: Left_Wing_01
+    100076: Left_Wing_02
+    100078: Left_Wing_03
+    100080: Left_Wing_04
+    100082: Left_Wing_05
+    100084: Left_Wing_06
+    100086: Right_Eye
+    100088: Right_Wing_01
+    100090: Right_Wing_02
+    100092: Right_Wing_03
+    100094: Right_Wing_04
+    100096: Right_Wing_05
+    100098: Right_Wing_06
+    100100: root
+    100102: Water_Owl
+    100104: //RootNode
+    100106: Weapon
+    400000: _REF_PROJECTILE
+    400002: AttackDepth_A
+    400004: AttackDepth_B
+    400006: Bip001
+    400008: Bip001 Head
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Foot
+    400016: Bip001 L Thigh
+    400018: Bip001 L Toe0
+    400020: Bip001 L Toe1
+    400022: Bip001 L Toe2
+    400024: Bip001 Neck
+    400026: Bip001 Pelvis
+    400028: Bip001 R Calf
+    400030: Bip001 R Clavicle
+    400032: Bip001 R Foot
+    400034: Bip001 R Thigh
+    400036: Bip001 R Toe0
+    400038: Bip001 R Toe1
+    400040: Bip001 R Toe2
+    400042: Bip001 Spine
+    400044: Bip001 Spine1
+    400046: Height_0
+    400048: Height_1
+    400050: Height_2
+    400052: Height_3
+    400054: Height_4
+    400056: Height_L_1
+    400058: Height_L_2
+    400060: Height_L_3
+    400062: Height_L_4
+    400064: Height_R_1
+    400066: Height_R_2
+    400068: Height_R_3
+    400070: Height_R_4
+    400072: Left_Eye
+    400074: Left_Wing_01
+    400076: Left_Wing_02
+    400078: Left_Wing_03
+    400080: Left_Wing_04
+    400082: Left_Wing_05
+    400084: Left_Wing_06
+    400086: Right_Eye
+    400088: Right_Wing_01
+    400090: Right_Wing_02
+    400092: Right_Wing_03
+    400094: Right_Wing_04
+    400096: Right_Wing_05
+    400098: Right_Wing_06
+    400100: root
+    400102: Water_Owl
+    400104: //RootNode
+    400106: Weapon
+    2100000: 'Material #60'
+    4300000: Water_Owl
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Water_Owl
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: 2ab1a8cf8984a1a44b8ae37ea70440b6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

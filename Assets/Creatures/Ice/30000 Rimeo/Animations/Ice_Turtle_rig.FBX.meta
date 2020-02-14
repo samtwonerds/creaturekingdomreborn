@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 9eab778cdbb18724e92d074523e7ef40
+timeCreated: 1558521067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AttackDepth_A
+    100002: AttackDepth_B
+    100004: ball_bone
+    100006: Bip001
+    100008: Bip001 Head
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L UpperArm
+    100028: Bip001 Neck
+    100030: Bip001 Neck1
+    100032: Bip001 Neck2
+    100034: Bip001 Neck3
+    100036: Bip001 Pelvis
+    100038: Bip001 R Calf
+    100040: Bip001 R Clavicle
+    100042: Bip001 R Finger0
+    100044: Bip001 R Foot
+    100046: Bip001 R Forearm
+    100048: Bip001 R Hand
+    100050: Bip001 R Thigh
+    100052: Bip001 R Toe0
+    100054: Bip001 R UpperArm
+    100056: Bip001 Spine
+    100058: Bip001 Spine1
+    100060: Height_0
+    100062: Height_1
+    100064: Height_2
+    100066: Height_3
+    100068: Height_L_1
+    100070: Height_L_2
+    100072: Height_L_3
+    100074: Height_R_1
+    100076: Height_R_2
+    100078: Height_R_3
+    100080: //RootNode
+    100082: Jawbone
+    100084: Left_eye
+    100086: Left_eyelid_lower
+    100088: Left_eyelid_upper
+    100090: Right_eye
+    100092: Right_eyelid_lower
+    100094: Right_eyelid_upper
+    100096: root
+    100098: Shell
+    100100: Tail_01
+    100102: Tail_02
+    100104: Turtle_Ice
+    100106: Turtle_Ice_Ball
+    400000: AttackDepth_A
+    400002: AttackDepth_B
+    400004: ball_bone
+    400006: Bip001
+    400008: Bip001 Head
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L UpperArm
+    400028: Bip001 Neck
+    400030: Bip001 Neck1
+    400032: Bip001 Neck2
+    400034: Bip001 Neck3
+    400036: Bip001 Pelvis
+    400038: Bip001 R Calf
+    400040: Bip001 R Clavicle
+    400042: Bip001 R Finger0
+    400044: Bip001 R Foot
+    400046: Bip001 R Forearm
+    400048: Bip001 R Hand
+    400050: Bip001 R Thigh
+    400052: Bip001 R Toe0
+    400054: Bip001 R UpperArm
+    400056: Bip001 Spine
+    400058: Bip001 Spine1
+    400060: Height_0
+    400062: Height_1
+    400064: Height_2
+    400066: Height_3
+    400068: Height_L_1
+    400070: Height_L_2
+    400072: Height_L_3
+    400074: Height_R_1
+    400076: Height_R_2
+    400078: Height_R_3
+    400080: //RootNode
+    400082: Jawbone
+    400084: Left_eye
+    400086: Left_eyelid_lower
+    400088: Left_eyelid_upper
+    400090: Right_eye
+    400092: Right_eyelid_lower
+    400094: Right_eyelid_upper
+    400096: root
+    400098: Shell
+    400100: Tail_01
+    400102: Tail_02
+    400104: Turtle_Ice
+    400106: Turtle_Ice_Ball
+    2100000: 'Material #6'
+    2100002: 'Material #3'
+    2300000: Turtle_Ice_Ball
+    3300000: Turtle_Ice_Ball
+    4300000: Turtle_Ice_Ball
+    4300002: Turtle_Ice
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Turtle_Ice
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 25b955b4a35166e47867ee70b82c042f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: e77ded453b7d9c041a61af17e379fbc8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
